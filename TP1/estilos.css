@@ -1,0 +1,155 @@
+body {
+    background-color: #f1efe9;
+    font-family: 'barlow', sans-serif;
+    color: #282828;
+}
+
+a {
+    color: #282828;
+}
+
+h1 {
+    font-size: 3em;
+    font-family: 'Galada', sans-serif;
+    text-align: center;
+    margin: 100px 0;;
+}
+
+h2 {
+    font-family: 'bebas neue', sans-serif;
+    font-size: 2em;
+    padding: 5px;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 0.9em;
+    padding: 5px;
+}
+
+p {
+    font-size: 0.9em;
+    line-height: 1.5;
+    text-align: justify;
+    padding: 5px;
+}
+
+span {
+    font-family: 'Galada', sans-serif;
+}
+
+.encabezado {
+    width: 80%;
+    padding: 10px 10%;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px #282828 solid;
+}
+
+.logo {
+    width: 200px;
+    height: 76px; 
+}
+
+.menu ul{
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menu ul li {
+    margin-left: 10px;
+}
+
+.boton_portfolio:hover, .boton_contacto:hover {
+    border-bottom: 1px black solid;
+}
+
+.boton_facebook:hover, .boton_instagram:hover {
+    opacity: 0.5;
+}
+
+.portfolio {
+    width: 80%;
+    margin-top: 30px;
+    padding: 0 10%; 
+}
+
+.proyectos {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.proyectos > div {
+    width: 30%;
+}
+
+.proyectos img {
+    margin-bottom: 15px;
+}
+
+.proyectos img:hover {
+    opacity: 0.5;
+}
+
+.contacto {
+    width: 80%;
+    padding: 10px 10%;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.datos_contacto img {
+    display: block;
+    width: 200px;
+    height: 76px;
+    margin: 20px auto;
+}
+
+.datos_contacto {
+    width: 40%;
+}
+
+.formulario_contacto {
+    width: 50%;
+}
+
+fieldset {
+    width: 100%;
+}
+
+input {
+    display: block;
+    border: none;
+    width: 96%;
+    margin: 1%;
+    padding: 2% 1%;
+    background-color: silver;
+}
+
+.boton {
+    width: 98%;
+}
+
+.boton:hover {
+    background-color: #282828;
+    color: silver;
+}
+
+.pie {
+    width: 80%;
+    padding: 10px 10%;
+    margin-top: 100px;
+    background-color: silver;
+}
+
+.pie p {
+    width: 100%;
+    text-align: center;
+}
+
+
+
