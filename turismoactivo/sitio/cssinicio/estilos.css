@@ -1,0 +1,2363 @@
+@media screen and (max-width:459px) {
+
+body {
+	background-color: #000;
+}
+
+#principal {
+	width: 100%;
+	margin: 0 auto;
+	background-color: #000;
+}
+	
+#slider {
+	position:relative;
+	width:100%;
+	height:400px;
+	margin: 0 auto;
+	z-index:3;
+}	
+
+.fluid_container {
+	height: 100%;
+}
+
+#camera_wrap_4 {
+	height: 100%;
+}
+
+.camera_bar {
+	z-index: 2;
+}
+
+.camera_overlayer {
+	opacity: .1;
+}
+
+.clear {
+	clear:both;
+}
+
+#accesorapido {
+	position:absolute;
+	left:50%;
+	margin-left:-160px;
+	bottom:10px;
+	width:320px;
+}	
+
+#accesorapido li {
+	width:160px;
+	line-height:30px;
+	float:left;
+	text-align:center;
+}
+
+#titulo_accesorapido {
+	background-color:#669d49;
+	color:#fff;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 0.8em;
+}
+
+#accesorapido ul {
+	overflow:auto;
+}
+
+#accesorapido a {
+	display:block;
+	width:158px;
+	background-color:#fff;
+	color:#000;
+	text-decoration:none;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 0.8em;
+	border-left: 1px dotted #CCC;
+	font-weight:bolder;
+}
+
+#accesorapido a:hover {
+	background-color:#83cc5b;
+	color:#fff;
+}
+
+#franja_superior {
+	position:relative;
+	width:100%;
+	z-index:9;
+}
+	
+#encabezado {
+	width: 320px;
+	margin: 0 auto;
+}
+
+#logo {
+	width:320px;
+	height:130px;
+	background: url(../imagenes/320/logo.png) no-repeat;
+}
+
+#menues {
+	width:320px;
+}
+
+#menu_dos {
+	width:320px;
+	background-color:#ccc;
+}
+
+#menu_dos ul{
+	overflow:hidden
+}
+
+#menu_dos li {
+	float:left;
+}
+
+#menu_dos a {
+	width:320px;
+	height:20px;
+	text-align: center;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 0.8em;
+	line-height: 19px;
+	color: #555;
+	display:block;
+	text-decoration:none;
+}
+
+#menu_dos a:hover {
+	text-decoration:underline;
+}
+
+#menu_uno {
+	width:320px;
+}
+
+#menu_uno a {
+	display:block;
+	text-decoration:none;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 0.9em;
+	font-weight:600;
+	color:#fff;
+}
+
+#lista_principal li ul {
+	width:320px;
+	position: absolute;
+    left: -9999px;
+}
+
+#lista_principal li:hover ul, #lista_principal li li:hover ul, #lista_principal li li li:hover ul, #lista_principal li.paraexplorer ul, #lista_principal li li.paraexplorer ul, #lista_principal li li li.paraexplorer ul {
+    left: auto;
+}
+
+#lista_principal {
+	overflow:hidden;
+	text-align:center;
+}
+
+#lista_principal li {
+}
+
+#lista_principal a {
+	padding: 5px;
+}
+
+#lista_principal li li {
+	float:none;
+	width:310px;
+}
+
+#lista_principal li ul a {
+	width:310px;
+	color:#fff;
+	background-color:#83cc5b;
+	border-bottom: 1px solid #aedb95;
+}
+
+#lista_principal li:hover {
+	color:#fff;
+	background-color:#83cc5b;
+}
+
+#lista_principal li ul a:hover {
+	background-color:#6fac4e;
+}
+
+#contenido {
+	width: 320px;
+	margin: 0 auto;
+	margin-top: 24px;
+}
+
+#columna_uno {
+	width:320px;
+	margin: 0 auto;
+}
+
+#columna_dos {
+	width:320px;
+	margin: 0 auto;
+}
+
+h1, h2 {
+	margin: 20px 0 10px 0;
+	padding-bottom:8px;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 2em;
+	color: #6fac4e;
+	border-bottom: 1px dotted #CCC;
+	letter-spacing: -0.9px;
+}
+
+#titulo_actividades {
+	width:320px;
+}
+
+#titulo_presentacion {
+	width:320px;
+}
+
+h3 {
+	font-family: georgia;
+	font-style: italic;
+	font-size: 1em;
+	color: #9E9E9E;
+	margin-bottom:20px;
+}
+
+h4 {
+	width: 155px;
+	margin: 0 auto;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 1em;
+	color:#669d49;
+	font-weight:bold;
+	text-align:center;
+	padding: 15px 0 30px 0;
+	border-bottom: 1px dotted #669d49;
+}
+
+.menor_padding {
+	padding-bottom:12px;
+}
+
+p {
+	font-family: "calibri", "arial", sans-serif;
+	color: #fff;
+	font-size: 0.9em;
+	line-height:1.2em;
+}
+
+#listado_actividades {
+	width:320px;
+	width:0 auto;
+}
+
+#listado_actividades #agua {
+	display:block;
+	width:320px;
+	height:95px;
+	text-indent:-99999px;
+	background: url(../imagenes/320/agua_titulo_inicio.jpg) no-repeat;
+	margin: 2px 0;
+}
+
+#listado_actividades #tierra {
+	display:block;
+	width:320px;
+	height:95px;
+	text-indent:-99999px;
+	background: url(../imagenes/320/tierra_titulo_inicio.jpg) no-repeat;
+	margin: 2px 0;
+}
+
+#listado_actividades #aire {
+	display:block;
+	width:320px;
+	height:95px;
+	text-indent:-99999px;
+	background: url(../imagenes/320/aire_titulo_inicio.jpg) no-repeat;
+	margin: 2px 0;
+}
+
+.actividad {
+	float:left;
+	width:155px;
+	height:180px;
+	background-color:#ccdd91;
+	margin:3px 0 0 3px;
+}
+
+.imagen_actividad {
+	display:block;
+	width:155px;
+	height:101px;
+}
+
+#trekking {
+		background: url(../imagenes/inicio/imagenes_actividades/320/trekking.jpg) no-repeat;
+}
+
+#trekking:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/320/trekking_hover.jpg) no-repeat;
+}
+
+#cuatriciclos {
+		background: url(../imagenes/inicio/imagenes_actividades/320/cuatriciclos.jpg) no-repeat;
+}
+
+#cuatriciclos:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/320/cuatriciclos_hover.jpg) no-repeat;
+}
+
+#rappel {
+		background: url(../imagenes/inicio/imagenes_actividades/320/rappel.jpg) no-repeat;
+}
+
+#rappel:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/320/rappel_hover.jpg) no-repeat;
+}
+
+#cabalgatas {
+		background: url(../imagenes/inicio/imagenes_actividades/320/cabalgatas.jpg) no-repeat;
+}
+
+#cabalgatas:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/320/cabalgatas_hover.jpg) no-repeat;
+}
+
+#buceo {
+		background: url(../imagenes/inicio/imagenes_actividades/320/buceo.jpg) no-repeat;
+}
+
+#buceo:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/320/buceo_hover.jpg) no-repeat;
+}
+
+#kayak {
+		background: url(../imagenes/inicio/imagenes_actividades/320/kayak.jpg) no-repeat;
+}
+
+#kayak:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/320/kayak_hover.jpg) no-repeat;
+}
+
+#cicloturismo {
+		background: url(../imagenes/inicio/imagenes_actividades/320/cicloturismo.jpg) no-repeat;
+}
+
+#cicloturismo:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/320/cicloturismo_hover.jpg) no-repeat;
+}
+
+#pesca {
+		background: url(../imagenes/inicio/imagenes_actividades/320/pesca.jpg) no-repeat;
+}
+
+#pesca:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/320/pesca_hover.jpg) no-repeat;
+}
+
+#observacion {
+		background: url(../imagenes/inicio/imagenes_actividades/320/observacion.jpg) no-repeat;
+}
+
+#observacion:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/320/observacion_hover.jpg) no-repeat;
+}
+
+#espeleismo {
+		background: url(../imagenes/inicio/imagenes_actividades/320/espeleismo.jpg) no-repeat;
+}
+
+#espeleismo:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/320/espeleismo_hover.jpg) no-repeat;
+}
+
+#cuatroporcuatro {
+		background: url(../imagenes/inicio/imagenes_actividades/320/4x4.jpg) no-repeat;
+}
+
+#cuatroporcuatro:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/320/4x4_hover.jpg) no-repeat;
+}
+
+#parapente {
+		background: url(../imagenes/inicio/imagenes_actividades/320/parapente.jpg) no-repeat;
+}
+
+#parapente:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/320/parapente_hover.jpg) no-repeat;
+}
+
+#canyoning {
+		background: url(../imagenes/inicio/imagenes_actividades/320/canyoning.jpg) no-repeat;
+}
+
+#canyoning:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/320/canyoning_hover.jpg) no-repeat;
+}
+
+#windsurf {
+		background: url(../imagenes/inicio/imagenes_actividades/320/windsurf.jpg) no-repeat;
+}
+
+#windsurf:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/320/windsurf_hover.jpg) no-repeat;
+}
+
+#kitesurf {
+		background: url(../imagenes/inicio/imagenes_actividades/320/kitesurf.jpg) no-repeat;
+}
+
+#kitesurf:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/320/kitesurf_hover.jpg) no-repeat;
+}
+
+#yachting {
+		background: url(../imagenes/inicio/imagenes_actividades/320/yachting.jpg) no-repeat;
+}
+
+#yachting:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/320/yachting_hover.jpg) no-repeat;
+}
+
+
+.noticias {
+	width:320px;
+	float:left;
+	overflow:auto;
+	margin: 10px 0;
+	background-color:#5f5f5f;
+	padding:5px;
+}
+
+.imagen_noticia {
+	width:60px;
+	height:70px;
+	float:left;
+	margin: 0px 5px 3px 0;
+}
+
+.noticias a {
+	display:block;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 1em;
+	color:#669d49;
+	margin-bottom: 3px;
+	text-decoration:none;
+}
+
+#noticia_uno {
+	background: url(../imagenes/inicio/noticias/auxilios.jpg) no-repeat;
+}
+
+#noticia_dos {
+	background: url(../imagenes/inicio/noticias/supervivencia.png) no-repeat;
+}
+
+#noticia_tres {
+	background: url(../imagenes/inicio/noticias/cbc.png) no-repeat;
+}
+
+#experiencias {
+	display:none;
+}
+
+#imagen_experiencia {
+	width:320px;
+	height:184px;
+	background: url(../imagenes/inicio/experiencias.jpg) no-repeat;
+	margin-left:8px;
+	padding: 16px 0 0 10px;
+}
+
+#imagen_experiencia a {
+	width:160px;
+	height:10px;
+	text-decoration:none;
+	text-align:center;
+	display:block;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 0.9em;
+	font-weight:bold;
+	padding:10px 15px;
+	border: 1px solid #fff;
+	color:#fff;
+}
+
+#auspiciantes {
+	display:none;
+}
+
+#pie {
+	width:100%;
+	background-color: #669d49;
+	margin-top:30px;
+	border-top: 5px solid #008000;
+	padding-bottom:50px;
+}
+
+#centro_pie {
+	width:320px;
+	margin: 0px auto;
+	margin-top:30px;
+}
+
+.columnas_pie {
+	width: 100%;
+}
+
+#resumen_sitio {
+	display:none;
+}
+
+#socialmedia {
+	width:100%;
+	overflow:auto;
+	margin:0 auto;
+}
+
+#boton_facebook_pie {
+	float:left;
+	display:block;
+	width:50%;
+	height:40px;
+	background: url(../imagenes/boton_facebook.png) no-repeat center;
+}
+
+#boton_youtube_pie {
+	float:left;
+	display:block;
+	width:50%;
+	height:40px;
+	background: url(../imagenes/boton_youtube.png) no-repeat center;
+}
+
+
+.mifecha {
+   display:block;
+   width:200px;
+   font-family: "calibri", "arial", sans-serif;
+   font-size: 0.9em;
+   line-height:1em;
+   color:#fff;
+   margin-top:20px;
+}
+
+.mifecha .ano{
+   float:left;
+   margin-left:5px;
+}
+.mifecha .dia{
+   float:left;
+}
+.mifecha .mes{
+   float:left;
+   margin-left:5px;
+}
+
+#datos p {
+	float:none;
+	width:320px;
+	margin-top:10px;
+	text-align:center;
+	font-size:0.8em;
+	color:#fff;
+	line-height:1.2em;
+}
+
+	
+}	
+
+/* ------------------------------- 460 ----------------------------------------------------------- */
+
+@media screen and (min-width:460px) and (max-width:767px) {
+
+body {
+	background-color: #000;
+}
+
+#principal {
+	width: 100%;
+	margin: 0 auto;
+	background-color: #000;
+}
+	
+#slider {
+	position:relative;
+	width:100%;
+	height:400px;
+	margin: 0 auto;
+	z-index:3;
+}	
+
+.fluid_container {
+	height: 100%;
+}
+
+#camera_wrap_4 {
+	height: 100%;
+}
+
+.camera_bar {
+	z-index: 2;
+}
+
+.camera_overlayer {
+	opacity: .1;
+}
+
+.clear {
+	clear:both;
+}
+
+#accesorapido {
+	position:absolute;
+	left:50%;
+	margin-left:-230px;
+	bottom:10px;
+	width:460px;
+}	
+
+#accesorapido li {
+	width:230px;
+	line-height:30px;
+	float:left;
+	text-align:center;
+}
+
+#titulo_accesorapido {
+	background-color:#669d49;
+	color:#fff;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 0.8em;
+}
+
+#accesorapido ul {
+	overflow:auto;
+}
+
+#accesorapido a {
+	display:block;
+	width:228px;
+	background-color:#fff;
+	color:#000;
+	text-decoration:none;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 0.8em;
+	border-left: 1px dotted #CCC;
+	font-weight:bolder;
+}
+
+#accesorapido a:hover {
+	background-color:#83cc5b;
+	color:#fff;
+}
+
+#franja_superior {
+	position:relative;
+	width:100%;
+	z-index:9;
+}
+	
+#encabezado {
+	width: 460px;
+	margin: 0 auto;
+}
+
+#logo {
+	width:190px;
+	height:77px;
+	background: url(../imagenes/768/logo.png) no-repeat;
+}
+
+#menues {
+	width:460px;
+	height:77px;
+}
+
+#menu_dos {
+	width:460px;
+	height:30px;
+	background-color:#ccc;
+}
+
+#menu_dos ul{
+	overflow:hidden
+}
+
+#menu_dos li {
+	float:left;
+}
+
+#menu_dos a {
+	width:153px;
+	height:30px;
+	text-align: center;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 0.8em;
+	line-height: 29px;
+	color: #555;
+	display:block;
+	text-decoration:none;
+}
+
+#menu_dos a:hover {
+	text-decoration:underline;
+}
+
+#menu_uno {
+	width:460px;
+	height:80px;
+}
+
+#menu_uno a {
+	display:block;
+	text-decoration:none;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 0.7em;
+	font-weight:600;
+	color:#fff;
+}
+
+#lista_principal li ul {
+	width:200px;
+	height:60px;
+	position: absolute;
+    left: -9999px;
+}
+
+#lista_principal li:hover ul, #lista_principal li li:hover ul, #lista_principal li li li:hover ul, #lista_principal li.paraexplorer ul, #lista_principal li li.paraexplorer ul, #lista_principal li li li.paraexplorer ul {
+    left: auto;
+}
+
+#lista_principal {
+	overflow:hidden;
+}
+
+#lista_principal li {
+	float:left;
+}
+
+#lista_principal a {
+	padding: 16.1px 11.9px;
+}
+
+#lista_principal li li {
+	float:none;
+	width:200px;
+}
+
+#lista_principal li ul a {
+	width:200px;
+	height:20px;
+	padding: 10px 0 10px 25px;
+	color:#fff;
+	background-color:#83cc5b;
+	border-bottom: 1px solid #aedb95;
+}
+
+#lista_principal li:hover {
+	color:#fff;
+	background-color:#83cc5b;
+}
+
+#lista_principal li ul a:hover {
+	background-color:#6fac4e;
+}
+
+#contenido {
+	width: 460px;
+	margin: 0 auto;
+	margin-top: 24px;
+}
+
+#columna_uno {
+	width:460px;
+	margin: 0 auto;
+}
+
+#columna_dos {
+	width:460px;
+	margin: 0 auto;
+}
+
+h1, h2 {
+	margin: 20px 0 10px 0;
+	padding-bottom:8px;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 2em;
+	color: #6fac4e;
+	border-bottom: 1px dotted #CCC;
+	letter-spacing: -0.9px;
+}
+
+#titulo_actividades {
+	width:460px;
+}
+
+#titulo_presentacion {
+	width:460px;
+}
+
+h3 {
+	font-family: georgia;
+	font-style: italic;
+	font-size: 1em;
+	color: #9E9E9E;
+	margin-bottom:20px;
+}
+
+h4 {
+	width: 200px;
+	margin: 0 auto;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 1.1em;
+	color:#669d49;
+	font-weight:bold;
+	text-align:center;
+	padding: 15px 0 30px 0;
+	border-bottom: 1px dotted #669d49;
+}
+
+.menor_padding {
+	padding-bottom:12px;
+}
+
+p {
+	font-family: "calibri", "arial", sans-serif;
+	color: #fff;
+	font-size: 0.9em;
+	line-height:1.2em;
+}
+
+#listado_actividades {
+	width:460px;
+	width:0 auto;
+}
+
+#listado_actividades #agua {
+	display:block;
+	width:460px;
+	height:136px;
+	text-indent:-99999px;
+	background: url(../imagenes/460/agua_titulo_inicio.jpg) no-repeat;
+	margin: 9px;
+}
+
+#listado_actividades #tierra {
+	display:block;
+	width:460px;
+	height:136px;
+	text-indent:-99999px;
+	background: url(../imagenes/460/tierra_titulo_inicio.jpg) no-repeat;
+	margin: 9px;
+}
+
+#listado_actividades #aire {
+	display:block;
+	width:460px;
+	height:136px;
+	text-indent:-99999px;
+	background: url(../imagenes/460/aire_titulo_inicio.jpg) no-repeat;
+	margin: 9px;
+}
+
+.actividad {
+	float:left;
+	width:214px;
+	height:230px;
+	margin: 8px;
+	background-color:#ccdd91;
+}
+
+.imagen_actividad {
+	display:block;
+	width:214px;
+	height:140px;
+}
+
+#trekking {
+		background: url(../imagenes/inicio/imagenes_actividades/trekking.jpg) no-repeat;
+}
+
+#trekking:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/trekking_hover.jpg) no-repeat;
+}
+
+#cuatriciclos {
+		background: url(../imagenes/inicio/imagenes_actividades/cuatriciclos.jpg) no-repeat;
+}
+
+#cuatriciclos:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/cuatriciclos_hover.jpg) no-repeat;
+}
+
+#rappel {
+		background: url(../imagenes/inicio/imagenes_actividades/rappel.jpg) no-repeat;
+}
+
+#rappel:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/rappel_hover.jpg) no-repeat;
+}
+
+#cabalgatas {
+		background: url(../imagenes/inicio/imagenes_actividades/cabalgatas.jpg) no-repeat;
+}
+
+#cabalgatas:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/cabalgatas_hover.jpg) no-repeat;
+}
+
+#buceo {
+		background: url(../imagenes/inicio/imagenes_actividades/buceo.jpg) no-repeat;
+}
+
+#buceo:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/buceo_hover.jpg) no-repeat;
+}
+
+#kayak {
+		background: url(../imagenes/inicio/imagenes_actividades/kayak.jpg) no-repeat;
+}
+
+#kayak:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/kayak_hover.jpg) no-repeat;
+}
+
+#cicloturismo {
+		background: url(../imagenes/inicio/imagenes_actividades/cicloturismo.jpg) no-repeat;
+}
+
+#cicloturismo:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/cicloturismo_hover.jpg) no-repeat;
+}
+
+#pesca {
+		background: url(../imagenes/inicio/imagenes_actividades/pesca.jpg) no-repeat;
+}
+
+#pesca:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/pesca_hover.jpg) no-repeat;
+}
+
+#observacion {
+		background: url(../imagenes/inicio/imagenes_actividades/observacion.jpg) no-repeat;
+}
+
+#observacion:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/observacion_hover.jpg) no-repeat;
+}
+
+#espeleismo {
+		background: url(../imagenes/inicio/imagenes_actividades/espeleismo.jpg) no-repeat;
+}
+
+#espeleismo:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/espeleismo_hover.jpg) no-repeat;
+}
+
+#cuatroporcuatro {
+		background: url(../imagenes/inicio/imagenes_actividades/4x4.jpg) no-repeat;
+}
+
+#cuatroporcuatro:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/4x4_hover.jpg) no-repeat;
+}
+
+#parapente {
+		background: url(../imagenes/inicio/imagenes_actividades/parapente.jpg) no-repeat;
+}
+
+#parapente:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/parapente_hover.jpg) no-repeat;
+}
+
+#canyoning {
+		background: url(../imagenes/inicio/imagenes_actividades/canyoning.jpg) no-repeat;
+}
+
+#canyoning:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/canyoning_hover.jpg) no-repeat;
+}
+
+#windsurf {
+		background: url(../imagenes/inicio/imagenes_actividades/windsurf.jpg) no-repeat;
+}
+
+#windsurf:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/windsurf_hover.jpg) no-repeat;
+}
+
+#kitesurf {
+		background: url(../imagenes/inicio/imagenes_actividades/kitesurf.jpg) no-repeat;
+}
+
+#kitesurf:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/kitesurf_hover.jpg) no-repeat;
+}
+
+#yachting {
+		background: url(../imagenes/inicio/imagenes_actividades/yachting.jpg) no-repeat;
+}
+
+#yachting:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/yachting_hover.jpg) no-repeat;
+}
+
+.noticias {
+	width:450px;
+	float:left;
+	overflow:auto;
+	margin: 10px 0;
+	background-color:#5f5f5f;
+	padding:5px;
+}
+
+.imagen_noticia {
+	width:60px;
+	height:70px;
+	float:left;
+	margin: 0px 5px 3px 0;
+}
+
+.noticias a {
+	display:block;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 1em;
+	color:#669d49;
+	margin-bottom: 3px;
+	text-decoration:none;
+}
+
+#noticia_uno {
+	background: url(../imagenes/inicio/noticias/auxilios.jpg) no-repeat;
+}
+
+#noticia_dos {
+	background: url(../imagenes/inicio/noticias/supervivencia.png) no-repeat;
+}
+
+#noticia_tres {
+	background: url(../imagenes/inicio/noticias/cbc.png) no-repeat;
+}
+
+#experiencias {
+	display:none;
+}
+
+#imagen_experiencia {
+	width:450px;
+	height:184px;
+	background: url(../imagenes/inicio/experiencias.jpg) no-repeat;
+	margin-left:8px;
+	padding: 16px 0 0 10px;
+}
+
+#imagen_experiencia a {
+	width:160px;
+	height:10px;
+	text-decoration:none;
+	text-align:center;
+	display:block;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 0.9em;
+	font-weight:bold;
+	padding:10px 15px;
+	border: 1px solid #fff;
+	color:#fff;
+}
+
+#auspiciantes {
+	display:none;
+}
+
+#pie {
+	width:100%;
+	background-color: #669d49;
+	margin-top:30px;
+	border-top: 5px solid #008000;
+	padding-bottom:50px;
+}
+
+#centro_pie {
+	width:460px;
+	margin: 0px auto;
+	margin-top:30px;
+}
+
+.columnas_pie {
+	float:left;
+	width: 230px;
+}
+
+#resumen_sitio a {
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 0.8em;
+	line-height:1.2em;
+	color: #fff;
+	text-decoration:none;
+}
+
+#socialmedia {
+	overflow:auto;
+}
+
+#boton_facebook_pie {
+	margin:5px;
+	float:left;
+	display:block;
+	width:40px;
+	height:40px;
+	background: url(../imagenes/boton_facebook.png) no-repeat;
+}
+
+#boton_youtube_pie {
+	margin:5px;
+	float:left;
+	display:block;
+	width:40px;
+	height:40px;
+	background: url(../imagenes/boton_youtube.png) no-repeat;
+}
+
+.mifecha {
+   display:block;
+   width:200px;
+   font-family: "calibri", "arial", sans-serif;
+   font-size: 0.9em;
+   line-height:1em;
+   color:#fff;
+   margin-top:20px;
+}
+
+.mifecha .ano{
+   float:left;
+   margin-left:5px;
+}
+
+.mifecha .dia{
+   float:left;
+}
+.mifecha .mes{
+   float:left;
+   margin-left:5px;
+}
+
+#datos p {
+	float:none;
+	width:460px;
+	margin-top:10px;
+	text-align:center;
+	font-size:0.8em;
+	color:#fff;
+	line-height:1.2em;
+}
+
+
+
+
+}
+
+/* ------------------------------- 768 ----------------------------------------------------------- */
+
+@media screen and (min-width:768px) and (max-width:1029px) {
+	
+body {
+	background-color: #000;
+}
+
+#principal {
+	width: 100%;
+	margin: 0 auto;
+	background-color: #000;
+}
+	
+#slider {
+	position:relative;
+	width:100%;
+	height:400px;
+	margin: 0 auto;
+	z-index:3;
+}	
+
+.fluid_container {
+	height: 100%;
+}
+
+#camera_wrap_4 {
+	height: 100%;
+}
+
+.camera_bar {
+	z-index: 2;
+}
+
+.camera_overlayer {
+	opacity: .1;
+}
+
+.clear {
+	clear:both;
+}
+
+#accesorapido {
+	position:absolute;
+	left:50%;
+	margin-left:-375px;
+	bottom:20px;
+	width:750px;
+}	
+
+#accesorapido li {
+	width:187px;
+	line-height:40px;
+	float:left;
+	text-align:center;
+}
+
+#titulo_accesorapido {
+	background-color:#669d49;
+	color:#fff;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 0.8em;
+}
+
+#accesorapido ul {
+	overflow:auto;
+}
+
+#accesorapido a {
+	display:block;
+	width:187px;
+	background-color:#fff;
+	color:#000;
+	text-decoration:none;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 0.8em;
+	border-left: 1px dotted #CCC;
+	font-weight:bolder;
+}
+
+#accesorapido a:hover {
+	background-color:#83cc5b;
+	color:#fff;
+}
+
+#franja_superior {
+	position:relative;
+	width:100%;
+	height:77px;
+	background: url(../imagenes/fondo_franjasuperior.gif) repeat-x;
+	z-index:9;
+}
+	
+#encabezado {
+	width: 768px;
+	margin: 0 auto;
+}
+
+#logo {
+	width:190px;
+	height:77px;
+	float:left;
+	background: url(../imagenes/768/logo.png) no-repeat;
+}
+
+#menues {
+	width:578px;
+	height:77px;
+	float:left;
+}
+
+#menu_dos {
+	width:450px;
+	height:30px;
+	margin-left:113px;
+}
+
+#menu_dos ul{
+	overflow:hidden
+}
+
+#menu_dos li {
+	float:left;
+}
+
+#menu_dos a {
+	width:148px;
+	height:30px;
+	text-align: center;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 0.8em;
+	line-height: 29px;
+	color: #555;
+	border-left: 1px solid #cbcbcb;
+	display:block;
+	text-decoration:none;
+}
+
+#menu_dos a:hover {
+	background-color:#cbcbcb;
+}
+
+#menu_dos #boton_contacto {
+	border-right: 1px solid #cbcbcb;
+}
+
+#menu_uno {
+	width:563px;
+	height:80px;
+}
+
+#menu_uno a {
+	display:block;
+	text-decoration:none;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 0.9em;
+	font-weight:600;
+	color:#fff;
+}
+
+#lista_principal li ul {
+	width:200px;
+	height:60px;
+	position: absolute;
+    left: -9999px;
+}
+
+#lista_principal li:hover ul, #lista_principal li li:hover ul, #lista_principal li li li:hover ul, #lista_principal li.paraexplorer ul, #lista_principal li li.paraexplorer ul, #lista_principal li li li.paraexplorer ul {
+    left: auto;
+}
+
+#lista_principal {
+	overflow:hidden;
+}
+
+#lista_principal li {
+	float:left;
+}
+
+#lista_principal a {
+	padding: 16.1px 22.1px;
+}
+
+#lista_principal li li {
+	float:none;
+	width:200px;
+}
+
+#lista_principal li ul a {
+	width:200px;
+	height:20px;
+	padding: 10px 0 10px 25px;
+	color:#fff;
+	background-color:#83cc5b;
+	border-bottom: 1px solid #aedb95;
+}
+
+#lista_principal li:hover {
+	color:#fff;
+	background-color:#83cc5b;
+}
+
+#lista_principal li ul a:hover {
+	background-color:#6fac4e;
+}
+
+#contenido {
+	width: 750px;
+	margin: 0 auto;
+	margin-top: 24px;
+}
+
+#columna_uno {
+	width:750px;
+	margin: 0 auto;
+}
+
+#columna_dos {
+	width:750px;
+	margin: 0 auto;
+}
+
+h1, h2 {
+	margin: 20px 0 10px 0;
+	padding-bottom:8px;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 2em;
+	color: #6fac4e;
+	border-bottom: 1px dotted #CCC;
+	letter-spacing: -0.9px;
+}
+
+#titulo_actividades {
+	width:750px;
+}
+
+#titulo_presentacion {
+	width:750px;
+}
+
+h3 {
+	font-family: georgia;
+	font-style: italic;
+	font-size: 1em;
+	color: #9E9E9E;
+	margin-bottom:20px;
+}
+
+h4 {
+	width: 200px;
+	margin: 0 auto;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 1.1em;
+	color:#669d49;
+	font-weight:bold;
+	text-align:center;
+	padding: 15px 0 30px 0;
+	border-bottom: 1px dotted #669d49;
+}
+
+.menor_padding {
+	padding-bottom:12px;
+}
+
+p {
+	font-family: "calibri", "arial", sans-serif;
+	color: #fff;
+	font-size: 0.9em;
+	line-height:1.2em;
+}
+
+#listado_actividades {
+	width:740px;
+	width:0 auto;
+}
+
+#listado_actividades #agua {
+	display:block;
+	width:675px;
+	height:200px;
+	text-indent:-99999px;
+	background: url(../imagenes/agua_titulo_inicio.jpg) no-repeat;
+	margin: 9px;
+}
+
+#listado_actividades #tierra {
+	display:block;
+	width:675px;
+	height:200px;
+	text-indent:-99999px;
+	background: url(../imagenes/tierra_titulo_inicio.jpg) no-repeat;
+	margin: 9px;
+}
+
+#listado_actividades #aire {
+	display:block;
+	width:675px;
+	height:200px;
+	text-indent:-99999px;
+	background: url(../imagenes/aire_titulo_inicio.jpg) no-repeat;
+	margin: 9px;
+}
+
+.actividad {
+	float:left;
+	width:214px;
+	height:230px;
+	margin: 8px;
+	background-color:#ccdd91;
+}
+
+.imagen_actividad {
+	display:block;
+	width:214px;
+	height:140px;
+}
+
+#trekking {
+		background: url(../imagenes/inicio/imagenes_actividades/trekking.jpg) no-repeat;
+}
+
+#trekking:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/trekking_hover.jpg) no-repeat;
+}
+
+#cuatriciclos {
+		background: url(../imagenes/inicio/imagenes_actividades/cuatriciclos.jpg) no-repeat;
+}
+
+#cuatriciclos:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/cuatriciclos_hover.jpg) no-repeat;
+}
+
+#rappel {
+		background: url(../imagenes/inicio/imagenes_actividades/rappel.jpg) no-repeat;
+}
+
+#rappel:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/rappel_hover.jpg) no-repeat;
+}
+
+#cabalgatas {
+		background: url(../imagenes/inicio/imagenes_actividades/cabalgatas.jpg) no-repeat;
+}
+
+#cabalgatas:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/cabalgatas_hover.jpg) no-repeat;
+}
+
+#buceo {
+		background: url(../imagenes/inicio/imagenes_actividades/buceo.jpg) no-repeat;
+}
+
+#buceo:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/buceo_hover.jpg) no-repeat;
+}
+
+#kayak {
+		background: url(../imagenes/inicio/imagenes_actividades/kayak.jpg) no-repeat;
+}
+
+#kayak:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/kayak_hover.jpg) no-repeat;
+}
+
+#cicloturismo {
+		background: url(../imagenes/inicio/imagenes_actividades/cicloturismo.jpg) no-repeat;
+}
+
+#cicloturismo:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/cicloturismo_hover.jpg) no-repeat;
+}
+
+#pesca {
+		background: url(../imagenes/inicio/imagenes_actividades/pesca.jpg) no-repeat;
+}
+
+#pesca:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/pesca_hover.jpg) no-repeat;
+}
+
+#observacion {
+		background: url(../imagenes/inicio/imagenes_actividades/observacion.jpg) no-repeat;
+}
+
+#observacion:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/observacion_hover.jpg) no-repeat;
+}
+
+#espeleismo {
+		background: url(../imagenes/inicio/imagenes_actividades/espeleismo.jpg) no-repeat;
+}
+
+#espeleismo:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/espeleismo_hover.jpg) no-repeat;
+}
+
+#cuatroporcuatro {
+		background: url(../imagenes/inicio/imagenes_actividades/4x4.jpg) no-repeat;
+}
+
+#cuatroporcuatro:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/4x4_hover.jpg) no-repeat;
+}
+
+#parapente {
+		background: url(../imagenes/inicio/imagenes_actividades/parapente.jpg) no-repeat;
+}
+
+#parapente:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/parapente_hover.jpg) no-repeat;
+}
+
+#canyoning {
+		background: url(../imagenes/inicio/imagenes_actividades/canyoning.jpg) no-repeat;
+}
+
+#canyoning:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/canyoning_hover.jpg) no-repeat;
+}
+
+#windsurf {
+		background: url(../imagenes/inicio/imagenes_actividades/windsurf.jpg) no-repeat;
+}
+
+#windsurf:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/windsurf_hover.jpg) no-repeat;
+}
+
+#kitesurf {
+		background: url(../imagenes/inicio/imagenes_actividades/kitesurf.jpg) no-repeat;
+}
+
+#kitesurf:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/kitesurf_hover.jpg) no-repeat;
+}
+
+#yachting {
+		background: url(../imagenes/inicio/imagenes_actividades/yachting.jpg) no-repeat;
+}
+
+#yachting:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/yachting_hover.jpg) no-repeat;
+}
+
+.noticias {
+	width:330px;
+	float:left;
+	overflow:auto;
+	margin: 10px 0;
+	background-color:#5f5f5f;
+	padding:5px;
+	margin-left:20px;
+}
+
+.imagen_noticia {
+	width:60px;
+	height:70px;
+	float:left;
+	margin: 0px 5px 3px 0;
+}
+
+.noticias a {
+	display:block;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 1em;
+	color:#669d49;
+	margin-bottom: 3px;
+	text-decoration:none;
+}
+
+#noticia_uno {
+	background: url(../imagenes/inicio/noticias/auxilios.jpg) no-repeat;
+}
+
+#noticia_dos {
+	background: url(../imagenes/inicio/noticias/supervivencia.png) no-repeat;
+}
+
+#noticia_tres {
+	background: url(../imagenes/inicio/noticias/cbc.png) no-repeat;
+}
+
+#experiencias {
+	display:none;
+}
+
+#imagen_experiencia {
+	width:662px;
+	height:184px;
+	background: url(../imagenes/inicio/experiencias.jpg) no-repeat;
+	margin-left:8px;
+	padding: 16px 0 0 10px;
+}
+
+#imagen_experiencia a {
+	width:160px;
+	height:10px;
+	text-decoration:none;
+	text-align:center;
+	display:block;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 0.9em;
+	font-weight:bold;
+	padding:10px 15px;
+	border: 1px solid #fff;
+	color:#fff;
+}
+
+#auspiciantes {
+	display:none;
+}
+
+#pie {
+	width:100%;
+	background-color: #669d49;
+	margin-top:30px;
+	border-top: 5px solid #008000;
+	padding-bottom:50px;
+}
+
+#centro_pie {
+	width:750px;
+	margin: 0px auto;
+	margin-top:30px;
+}
+
+.columnas_pie {
+	float:left;
+	width: 250px;
+}
+
+#resumen_sitio a {
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 0.8em;
+	line-height:1.2em;
+	color: #fff;
+	text-decoration:none;
+}
+
+#socialmedia {
+	overflow:auto;
+}
+
+#boton_facebook_pie {
+	margin:5px;
+	float:left;
+	display:block;
+	width:40px;
+	height:40px;
+	background: url(../imagenes/boton_facebook.png) no-repeat;
+}
+
+#boton_youtube_pie {
+	margin:5px;
+	float:left;
+	display:block;
+	width:40px;
+	height:40px;
+	background: url(../imagenes/boton_youtube.png) no-repeat;
+}
+
+.mifecha {
+   display:block;
+   width:200px;
+   font-family: "calibri", "arial", sans-serif;
+   font-size: 0.9em;
+   line-height:1em;
+   color:#fff;
+   margin-top:20px;
+}
+.mifecha .ano{
+   float:left;
+   margin-left:5px;
+}
+.mifecha .dia{
+   float:left;
+}
+.mifecha .mes{
+   float:left;
+   margin-left:5px;
+}
+
+#logo_pie {
+	width:270px;
+	height:150px;
+	margin-left:-20px;
+	background: url(../imagenes/logopie.png) no-repeat;
+}
+
+#datos p {
+	text-align:right;
+	font-size:1em;
+	color:#fff;
+	line-height:1.2em;
+}
+
+
+	
+}
+
+/* ------------------------------- 1030 ----------------------------------------------------------- */
+
+@media screen and (min-width:1030px) {
+	
+body {
+		background-color: #000;
+	}
+
+#principal {
+	width: 100%;
+	margin: 0 auto;
+	background-color: #000;
+}
+	
+#slider {
+	position:relative;
+	width:100%;
+	height:400px;
+	margin: 0 auto;
+	z-index:3;
+}	
+
+.fluid_container {
+	height: 100%;
+}
+
+#camera_wrap_4 {
+	height: 100%;
+}
+
+.camera_bar {
+	z-index: 2;
+}
+
+.camera_overlayer {
+	opacity: .1;
+}
+
+.clear {
+	clear:both;
+}
+
+#accesorapido {
+	position:absolute;
+	left:50%;
+	margin-left:-512px;
+	bottom:20px;
+	width:1024px;
+}	
+
+#accesorapido li {
+	width:256px;
+	line-height:40px;
+	float:left;
+	text-align:center;
+}
+
+#titulo_accesorapido {
+	background-color:#669d49;
+	color:#fff;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 1.1em;
+}
+
+#accesorapido ul {
+	overflow:auto;
+}
+
+#accesorapido a {
+	display:block;
+	width:255px;
+	background-color:#fff;
+	color:#000;
+	text-decoration:none;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 0.9em;
+	border-left: 1px dotted #CCC;
+	font-weight:bolder;
+}
+
+#accesorapido a:hover {
+	background-color:#83cc5b;
+	color:#fff;
+}
+
+#franja_superior {
+	position:relative;
+	width:100%;
+	height:110px;
+	background: url(../imagenes/fondo_franjasuperior.gif) repeat-x;
+	z-index:9;
+}
+	
+#encabezado {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+#logo {
+	width:270px;
+	height:110px;
+	float:left;
+	background: url(../imagenes/logo.png) no-repeat;
+}
+
+#menues {
+	width:750px;
+	height:110px;
+	float:left;
+}
+
+#menu_dos {
+	width:450px;
+	height:30px;
+	margin-left:304px;
+}
+
+#menu_dos ul{
+	overflow:hidden
+}
+
+#menu_dos li {
+	float:left;
+}
+
+#menu_dos a {
+	width:148px;
+	height:30px;
+	text-align: center;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 0.8em;
+	line-height: 29px;
+	color: #555;
+	border-left: 1px solid #cbcbcb;
+	display:block;
+	text-decoration:none;
+}
+
+#menu_dos a:hover {
+	background-color:#cbcbcb;
+}
+
+#menu_dos #boton_contacto {
+	border-right: 1px solid #cbcbcb;
+}
+
+#menu_uno {
+	width:750px;
+	height:80px;
+}
+
+#menu_uno a {
+	display:block;
+	text-decoration:none;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 0.9em;
+	font-weight:600;
+	color:#fff;
+}
+
+#lista_principal li ul {
+	width:300px;
+	height:60px;
+	position: absolute;
+    left: -9999px;
+}
+
+#lista_principal li:hover ul, #lista_principal li li:hover ul, #lista_principal li li li:hover ul, #lista_principal li.paraexplorer ul, #lista_principal li li.paraexplorer ul, #lista_principal li li li.paraexplorer ul {
+    left: auto;
+}
+
+#lista_principal {
+	overflow:hidden;
+}
+
+#lista_principal li {
+	float:left;
+}
+
+#lista_principal a {
+	padding:33px;
+}
+
+#lista_principal li li {
+	float:none;
+	width:300px;
+}
+
+#lista_principal li ul a {
+	width:300px;
+	height:20px;
+	padding: 10px 0 10px 25px;
+	color:#fff;
+	background-color:#83cc5b;
+	border-bottom: 1px solid #aedb95;
+}
+
+#lista_principal li:hover {
+	color:#fff;
+	background-color:#83cc5b;
+}
+
+#lista_principal li ul a:hover {
+	background-color:#6fac4e;
+}
+
+#contenido {
+	width: 1024px;
+	margin: 0 auto;
+	margin-top: 24px;
+}
+
+#columna_uno {
+	float:left;
+	width:700px;
+}
+
+#columna_dos {
+	width:300px;
+	margin-left: 24px;
+	float:left;
+}
+
+h1, h2 {
+	margin: 20px 0 10px 0;
+	padding-bottom:8px;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 2em;
+	color: #6fac4e;
+	border-bottom: 1px dotted #CCC;
+	letter-spacing: -0.9px;
+}
+
+#titulo_actividades {
+	width:700px;
+}
+
+#titulo_presentacion {
+	width:300px;
+}
+
+h3 {
+	font-family: georgia;
+	font-style: italic;
+	font-size: 1em;
+	color: #9E9E9E;
+	margin-bottom:20px;
+}
+
+#pie h3 {
+	color: #555;
+}
+
+h4 {
+	width: 200px;
+	margin: 0 auto;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 1.1em;
+	color:#669d49;
+	font-weight:bold;
+	text-align:center;
+	padding: 15px 0 30px 0;
+	border-bottom: 1px dotted #669d49;
+}
+
+.menor_padding {
+	padding-bottom:12px;
+}
+
+p {
+	font-family: "calibri", "arial", sans-serif;
+	color: #fff;
+	font-size: 0.9em;
+	line-height:1.2em;
+}
+
+#listado_actividades #agua {
+	display:block;
+	width:675px;
+	height:200px;
+	text-indent:-99999px;
+	background: url(../imagenes/agua_titulo_inicio.jpg) no-repeat;
+	margin: 9px;
+}
+
+#listado_actividades #tierra {
+	display:block;
+	width:675px;
+	height:200px;
+	text-indent:-99999px;
+	background: url(../imagenes/tierra_titulo_inicio.jpg) no-repeat;
+	margin: 9px;
+}
+
+#listado_actividades #aire {
+	display:block;
+	width:675px;
+	height:200px;
+	text-indent:-99999px;
+	background: url(../imagenes/aire_titulo_inicio.jpg) no-repeat;
+	margin: 9px;
+}
+
+.actividad {
+	float:left;
+	width:214px;
+	height:230px;
+	margin: 8px;
+	background-color:#ccdd91;
+}
+
+.imagen_actividad {
+	display:block;
+	width:214px;
+	height:140px;
+}
+
+#trekking {
+		background: url(../imagenes/inicio/imagenes_actividades/trekking.jpg) no-repeat;
+}
+
+#trekking:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/trekking_hover.jpg) no-repeat;
+}
+
+#cuatriciclos {
+		background: url(../imagenes/inicio/imagenes_actividades/cuatriciclos.jpg) no-repeat;
+}
+
+#cuatriciclos:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/cuatriciclos_hover.jpg) no-repeat;
+}
+
+#rappel {
+		background: url(../imagenes/inicio/imagenes_actividades/rappel.jpg) no-repeat;
+}
+
+#rappel:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/rappel_hover.jpg) no-repeat;
+}
+
+#cabalgatas {
+		background: url(../imagenes/inicio/imagenes_actividades/cabalgatas.jpg) no-repeat;
+}
+
+#cabalgatas:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/cabalgatas_hover.jpg) no-repeat;
+}
+
+#buceo {
+		background: url(../imagenes/inicio/imagenes_actividades/buceo.jpg) no-repeat;
+}
+
+#buceo:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/buceo_hover.jpg) no-repeat;
+}
+
+#kayak {
+		background: url(../imagenes/inicio/imagenes_actividades/kayak.jpg) no-repeat;
+}
+
+#kayak:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/kayak_hover.jpg) no-repeat;
+}
+
+#cicloturismo {
+		background: url(../imagenes/inicio/imagenes_actividades/cicloturismo.jpg) no-repeat;
+}
+
+#cicloturismo:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/cicloturismo_hover.jpg) no-repeat;
+}
+
+#pesca {
+		background: url(../imagenes/inicio/imagenes_actividades/pesca.jpg) no-repeat;
+}
+
+#pesca:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/pesca_hover.jpg) no-repeat;
+}
+
+#observacion {
+		background: url(../imagenes/inicio/imagenes_actividades/observacion.jpg) no-repeat;
+}
+
+#observacion:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/observacion_hover.jpg) no-repeat;
+}
+
+#espeleismo {
+		background: url(../imagenes/inicio/imagenes_actividades/espeleismo.jpg) no-repeat;
+}
+
+#espeleismo:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/espeleismo_hover.jpg) no-repeat;
+}
+
+#cuatroporcuatro {
+		background: url(../imagenes/inicio/imagenes_actividades/4x4.jpg) no-repeat;
+}
+
+#cuatroporcuatro:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/4x4_hover.jpg) no-repeat;
+}
+
+#parapente {
+		background: url(../imagenes/inicio/imagenes_actividades/parapente.jpg) no-repeat;
+}
+
+#parapente:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/parapente_hover.jpg) no-repeat;
+}
+
+#canyoning {
+		background: url(../imagenes/inicio/imagenes_actividades/canyoning.jpg) no-repeat;
+}
+
+#canyoning:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/canyoning_hover.jpg) no-repeat;
+}
+
+#windsurf {
+		background: url(../imagenes/inicio/imagenes_actividades/windsurf.jpg) no-repeat;
+}
+
+#windsurf:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/windsurf_hover.jpg) no-repeat;
+}
+
+#kitesurf {
+		background: url(../imagenes/inicio/imagenes_actividades/kitesurf.jpg) no-repeat;
+}
+
+#kitesurf:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/kitesurf_hover.jpg) no-repeat;
+}
+
+#yachting {
+		background: url(../imagenes/inicio/imagenes_actividades/yachting.jpg) no-repeat;
+}
+
+#yachting:hover {
+		background: url(../imagenes/inicio/imagenes_actividades/yachting_hover.jpg) no-repeat;
+}
+
+.noticias {
+	width:290px;
+	overflow:auto;
+	margin: 10px 0;
+	background-color:#5f5f5f;
+	padding:5px;
+}
+
+.imagen_noticia {
+	width:60px;
+	height:70px;
+	float:left;
+	margin: 0px 5px 3px 0;
+}
+
+.noticias a {
+	display:block;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 1em;
+	color:#669d49;
+	margin-bottom: 3px;
+	text-decoration:none;
+}
+
+#noticia_uno {
+	background: url(../imagenes/inicio/noticias/auxilios.jpg) no-repeat;
+}
+
+#noticia_dos {
+	background: url(../imagenes/inicio/noticias/supervivencia.jpg) no-repeat;
+}
+
+#noticia_tres {
+	background: url(../imagenes/inicio/noticias/cbc.png) no-repeat;
+}
+
+#experiencias {
+	display:none;
+}
+
+#imagen_experiencia {
+	width:662px;
+	height:184px;
+	background: url(../imagenes/inicio/experiencias.jpg) no-repeat;
+	margin-left:8px;
+	padding: 16px 0 0 10px;
+}
+
+#imagen_experiencia a {
+	width:160px;
+	height:10px;
+	text-decoration:none;
+	text-align:center;
+	display:block;
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 0.9em;
+	font-weight:bold;
+	padding:10px 15px;
+	border: 1px solid #fff;
+	color:#fff;
+}
+
+#auspiciantes {
+	display:none;
+}
+
+#pie {
+	width:100%;
+	background-color: #669d49;
+	margin-top:30px;
+	border-top: 5px solid #008000;
+	padding-bottom:50px;
+}
+
+#centro_pie {
+	width:1024px;
+	margin: 0px auto;
+	margin-top:30px;
+}
+
+.columnas_pie {
+	float:left;
+	width: 330px;
+}
+
+#resumen_sitio a {
+	font-family: "calibri", "arial", sans-serif;
+	font-size: 0.8em;
+	line-height:1.2em;
+	color: #fff;
+	text-decoration:none;
+}
+
+#socialmedia {
+	overflow:auto;
+}
+
+#boton_facebook_pie {
+	margin:5px;
+	float:left;
+	display:block;
+	width:40px;
+	height:40px;
+	background: url(../imagenes/boton_facebook.png) no-repeat;
+}
+
+#boton_youtube_pie {
+	margin:5px;
+	float:left;
+	display:block;
+	width:40px;
+	height:40px;
+	background: url(../imagenes/boton_youtube.png) no-repeat;
+}
+
+.mifecha {
+   display:block;
+   width:200px;
+   font-family: "calibri", "arial", sans-serif;
+   font-size: 0.9em;
+   line-height:1em;
+   color:#fff;
+   margin-top:20px;
+}
+.mifecha .ano{
+   float:left;
+   margin-left:5px;
+}
+.mifecha .dia{
+   float:left;
+}
+.mifecha .mes{
+   float:left;
+   margin-left:5px;
+}
+
+#logo_pie {
+	width:270px;
+	height:150px;
+	margin-left:60px;
+	background: url(../imagenes/logopie.png) no-repeat;
+}
+
+#datos p {
+	text-align:right;
+	font-size:1em;
+	color:#fff;
+	line-height:1.2em;
+}
+
+}

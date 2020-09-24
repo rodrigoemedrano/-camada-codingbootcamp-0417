@@ -1,0 +1,239 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+	<head>
+		<title>Espacio Prestadores</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<meta http-equiv="window-target" content="_top" />
+		<meta name="author" content="Innova Desarrollo Web - Diseï¿½o Web en Traslasierra" />
+		<meta name="generator" content="Aptana" />
+		<meta name="robots" content="all" />
+		<meta name="description" content="Turismo Activo de la Provincia de Cordoba" />
+		<meta name="keywords" content="turismo, turismo alernativo, actividades, trecking, caminatas, cabalgatas, que hacer, paseos, excursiones" />
+		<meta name="viewport"content="width=device-width,initial-scale=1.0"/>
+        <link href="imagenes/miniatura_face.jpg" rel="image_src" />
+		<link rel="icon" type="image/png" href="imagenes/favicon.ico"/>
+		<link rel="stylesheet" type="text/css" href="cssgenerales/reset.css"  />
+		<link rel="stylesheet" type="text/css" href="cssgenerales/estilos.css" />
+		<link rel="stylesheet" type="text/css" href="cssgenerales/estilos_slider.css" />
+        <script type="text/javascript"><!--//--><![CDATA[//><!--
+         function prepareTargetBlank(){
+         var className = 'external';
+         var as = document.getElementsByTagName('a');
+         for(i=0;i<as.length;i++){
+         var a = as[i];
+         r=new RegExp("(^| )"+className+"($| )");
+         if(r.test(a.className)){
+         a.onclick = function(){
+         window.open(this.href);
+         return false;
+         }
+      }
+    }
+}
+
+window.onload = prepareTargetBlank;
+
+         //--><!]]></script>
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-26190583-8', 'auto');
+  ga('send', 'pageview');
+
+</script>		
+		<script type="text/javascript" src="media_queries.js"></script>
+		<script src='http://www.google.com/jsapi'></script>
+		<script>
+		google.load("prototype","1.7.0.0");
+		google.load("scriptaculous", "1.9.0");
+		</script>
+	</head>
+    <body id="prestadores_pagina" >
+    	<div id="principal">
+    		<div id="franja_superior">
+				<div id="encabezado">
+					<div id="logo"></div><!-- fin logo -->
+					<div id="menues">
+						<div id="menu_dos">
+							<ul>
+								<li><a id="boton_prestadores" href="prestadores.html">ESPACIO PRESTADORES</a></li>
+								<li><a id="boton_equipo" href="equipo.html">QUIENES SOMOS</a></li>
+								<li><a id="boton_contacto" href="contacto.html">CONTACTO</a></li>
+							</ul>
+						</div><!-- fin menu_dos -->
+						<div id="menu_uno">
+							<ul id="lista_principal">
+								<li><a id="boton_inicio" href="index.html">INICIO</a></li>
+								<li><a id="boton_turismoalternativo" href="turismoalternativo.html">TURISMO ACTIVO</a></li>
+								<li><a id="boton_actividades" href="#">ACTIVIDADES</a>
+								<ul id="lista_secundaria">
+										<li><a id="boton_listado_actividades" href="actividades.html">según TIPOS DE ACTIVIDAD</a></li>
+										<li><a id="boton_regiones" href="regiones.html">según REGIONES TURÍSTICAS</a></li>
+										<li><a id="boton_localidades" href="localidades.html">según LOCALIDADES</a></li>
+									</ul></li>
+								<li><a id="boton_experiencias" href="experiencias.html">EXPERIENCIAS</a></li>
+								<li><a id="boton_mapas" href="mapas.html">MAPAS</a></li>
+							</ul>
+						</div><!-- fin menu_uno -->
+						<div id="clear"></div>
+					</div>
+				</div><!-- fin encabezado -->
+			</div><!-- fin franja_superior -->
+			
+			
+			<div id="contenido">
+				<h1>ESPACIO PRESTADORES</h1>
+				<div id="columna_uno">
+				<a id="anunciar" href='#expandir1' onclick='Effect.toggle("expandir1","slide"); return false'>ANUNCIAR EN EL SITIO</a>
+				</div>
+				
+				<div id="columna_uno">
+				<a id="descuentos" href='#' onclick='Effect.toggle("expandir2","slide"); return false'>DESCUENTOS PARA PRESTADORES EN COMERCIOS AUSPICIANTES</a>
+				</div>
+				
+				<div id="columna_uno">
+				<a id="capacitaciones" href='#' onclick='Effect.toggle("expandir3","slide"); return false'>CAPACITACIONES</a>
+				</div>
+				<div class="clear"></div>
+				
+				<div id='expandir1' style='display: none;'>
+					<h3>¿Como anunciar en turismoactivo.com? Completá el siguiente formulario y te enviaremos toda la info por correo</h3>
+					<form action="consultados.php" method="post">
+						    	<fieldset>
+									<input placeholder="Nombre y Apellido" type="text" name="nombre" id="nombre" />
+									<input placeholder="Correo electronico" type="text" name="mail" id="mail" />
+									<input placeholder="Telefono" type="text" name="telefono" id="telefono" />
+									<input placeholder="Tipo de Actividad" type="text" name="actividad" id="actividad" />
+									<input placeholder="Nombre de la Empresa" type="text" name="empresa" id="empresa" />
+									<input placeholder="Localidad" type="text" name="origen" id="origen" />
+									<textarea placeholder="Mensaje" id="consulta" name="consulta" rows="5" cols="5"></textarea>
+									<input class="boton" type="submit" value="ENVIAR"  />
+								</fieldset>
+		    		</form>
+				</div>
+				<div id='expandir2' style='display: none;'>
+					<h3>Descuentos en comercios auspiciantes</h3>
+					<div id="bloque_uno">
+						<div id="promo1" class="promo">
+							<img class="logo_comercio" src="imagenes/logo_innova.png" width="100px" height="36px" />
+							<div class="detalle_promo">
+								<h5>Innova Desarrollo Web</h5>
+								<div>
+									<img class="porcentaje_promo" src="imagenes/20desc.png" width="79px" height="70px" />
+									<p class="descripcion_promo">20% de descuento en diseï¿½o de sitios web para prestadores de turismo activo</p>
+									<div class="clear"></div>
+								</div>
+								<p class="datos_comercio">Tel: 3544566292 | www.innovadesarrolloweb.com.ar</p>
+							</div>
+							<div class="clear"></div>
+						</div>
+					</div>
+					<div id="bloque_dos">
+						
+					</div>
+					<div class="clear"></div>
+				</div>
+				<div id='expandir3' style='display: none;'>
+								
+				<h1>Curso CBC: Competencias Básicas Comunes</h1>
+				<p>La Agencia Córdoba Turismo, invita a usted y por su intermedio a todos los prestadores de Turismo Activo de su localidad, a participar del Curso CBC: Competencias Básicas Comunes para Prestadores de Turismo Alternativo.</p>
+				<p>El mismo, es uno de los requisitos que establece la Ley Provincial Nº 8801 para obtener la inscripción en el Registro de Prestadores de Turismo Alternativo de la Agencia Córdoba Turismo, condición indispensable para desempeñarse comercialmente como tal.</p>
+				<p>En esta ocasión, la creación de una plataforma de E-learning permitirá a los interesados llevar adelante el cursado de los módulos a través de internet desde su domicilio, debiendo asistir sólo a la salida final:</p>
+				<p><strong>Fecha de inicio:</strong>30 de abril de 2016</p>
+				<p><strong>Formato:</strong>Semipresencial. Desarrollo de contenidos teóricos con plataforma de E-learning y salida final de 3 días con pernoctación</p>
+				<p><strong>Cantidad de módulos:</strong>6</p>
+				<p><strong>Duración de módulo:</strong>14 días</p>
+				<p><strong>Duración del curso</strong>3 meses</p>
+				<p><strong>Salida final:</strong>fecha a convenir según el cupo de cursantes.</p>
+				<p><strong>Destinatarios:</strong>Prestadores de turismo alternativo en actividad y aquellos que quisieran incursionar en la actividad a futuro</p>
+				<p><strong>Costo del curso:</strong>$ 2.300,- (no incluye alojamiento ni restauración en salida final)</p>
+				
+				<h3>**Cupos limitados**</h3>
+				
+				<h3>MÓDULOS DE ESTUDIO</h3>
+				<p class="viñeta"><strong>MÓDULO 1.-</strong> ÁREA CONCEPTUAL Y DEL DERECHO APLICABLE</p>
+				<p class="viñeta"><strong>MÓDULO 2.-</strong> ÁREA 	COMERCIAL</p>
+				<p class="viñeta"><strong>MÓDULO 3.-</strong> ÁREA DEL EJERCICIO PROFESIONAL Y RELACIONES HUMANAS</p>
+				<p class="viñeta"><strong>MÓDULO 4.-</strong> ÁREA SERES VIVOS</p>
+				<p class="viñeta"><strong>MÓDULO 5.-</strong> ÁREA PRIMEROS AUXILIOS</p>
+				<p class="viñeta"><strong>MÓDULO 6.-</strong> ÁREA ORIENTACIÓN</p>
+				
+				<h3>REQUISITOS DE APROBACIÓN</h3>
+				<p class="viñeta">1) Aprobación de las actividades no presenciales de cada uno de los módulos</p>
+				<p class="viñeta">2) Asistencia a la salida final</p>
+				<p class="viñeta">3) Aprobación de la evaluación final</p>
+				<br />
+				<p><strong>INFORMES E INSCRIPCIÓN:</strong> 03544-15405957 – cbcturismoactivo@gmail.com</p>
+				<p><strong>COORDINACIÓN GENERAL DEL CURSO: Lic. Rodrigo Alonso – Ing. Ricardo Samamé</strong></p>
+				<br />
+				
+				<h1>Curso Teórico Práctico de Supervivencia</h1>
+				<img src="imagenes/logo_eas.jpg" alt="logo de escuela argentina de supervivencia" />
+				<p>“Lograr la capacitación psicotécnica del alumno, para que cuando esté ante una posible emergencia, pueda evitar en forma eficiente, rápida y segura el accidente. Y si este es inevitable y se produce, salvar la vida y luego preservarla poniendo en juego todos los mecanismos de defensa naturales y adquiridos. De este modo una situación extrema solo será UN SIMPLE PERCANCE Y NO UNA TRAGEDIA”</p>
+				<p>24 HORAS DE CLASES TEÓRICAS - 6 DÍAS DE ACTIVIDADES PRÁCTICAS</p>
+				<p><strong>Instructor: Eduardo Maggio. Director Escuela Argentina de Supervivencia – Filial Córdoba</strong></p>
+				<h3>PRÓXIMAMENTE MÁS INFORMACIÓN</h3>
+				<br />
+				
+				<h1>Cursos Teórico Prácticos de Primeros Auxilios</h1>
+				<img src="imagenes/logorumbos.png" alt="logo de trekking rumbos" />
+				<h3>Wilderness First Aid (WFA)</h3>
+				<p>El curso Wilderness First Aid (WFA) es un curso de 24 horas distribuidas en tres días de jornada completa. Este curso está dirigido los aficionados que realizan actividades deportivas y recreativas al aire libre de forma ocasional y de poco tiempo de duración.</p>
+				<h3>Wilderness Advanced First Aid (WAFA)</h3>
+				<p>El curso Wilderness Advanced First Aid (WAFA) es un curso de 36 horas distribuidas en cuatro (4) días de jornada completa. Puede dictarse en dos modalidades: durante cuatro (4) días corridos o en dos (2) fines de semana. El WAFA puede ser utilizado para recertificar el WFR.</p>
+				<h3>Wilderness First Responder (WFR)</h3>
+				<p>El curso Wilderness First Responder (WFR) es un entrenamiento cuyos contenidos fueron diseñados para satisfacer las necesidades de profesionales que se desempeñan en Zonas Agrestes, que pueden ser responsables o líderes de un grupo de personas (guías, guardaparques, jefes de personal en compañías mineras, profesores de educación física), sin ser esto una limitante para participar del curso. El Curso Wilderness First Responder (WFR) posee una carga horaria de 85 horas, dictadas a lo largo de 8 días corridos de jornada completa. Usualmente se realiza en locaciones apartadas de los grandes centros urbanos</p>
+				<p><strong>Instructor ACES: Julio Moyano</strong></p>
+				<h3>PRÓXIMAMENTE MÁS INFORMACIÓN</h3>	
+				</div>
+			</div>
+    	</div><!-- fin principal -->
+<div id="pie">
+			<div id="centro_pie">
+				<div class="columnas_pie">
+					<div id="socialmedia">
+						<h3>Seguinos!</h3>
+						<a id="boton_facebook_pie" href="https://www.facebook.com/turismoactivocordoba"></a>
+						<a id="boton_youtube_pie" href="https://www.youtube.com/channel/UC0x918t57zs3sQj5PeJydfQ"></a>
+					</div>
+					<script>
+					var f=new Date();
+					var meses = new Array ("de Enero de","de Febrero de","de Marzo de","de Abril de","de Mayo de","de Junio de","de Julio de","de Agosto de","de Septiembre de","de Octubre de","de Noviembre de","de Diciembre de");
+					document.write('<div class="mifecha">');
+					document.write('<div class="dia">' + f.getDate() + '</div>');
+					document.write('<div class="mes">' + meses[f.getMonth()] + '</div>');
+					document.write('<div class="ano">' + f.getFullYear() + '</div>');
+					document.write('</div>');
+					</script>
+				</div>
+				<div class="columnas_pie" id="resumen_sitio">
+					<h3>www.turismoactivocordoba.com</h3>
+				  <ul>
+				  	 <li><a href="actividades.html">Actividades por tipo</a></li>
+					 <li><a href="regiones">Actividades por regiones turï¿½sticas</a></li>
+					 <li><a href="localidades.html">Actividades por localidades</a></li>
+					 <li><a href="experiencias.html">Experiencias</a></li>
+					 <li><a href="mapas.html">Mapas</a></li>
+					 <li><a href="prestadores.html">Descuentos para Prestadores</a></li>
+					 <li><a href="prestadores.html">Anunciar en el sitio</a></li>
+					 <li><a href="prestadores.html">Capacitaciones</a></li>
+					 <li><a href="equipo.html">Quienes somos</a></li>
+					 <li><a href="contacto.html">Contactanos</a></li>
+					 <li><a href="turismoalternativo.html">Que es el Turismo Activo</a></li>
+				  </ul>
+				</div>
+				<div class="columnas_pie" id="datos">
+				<div id="logo_pie"></div>
+				<p>contacto@turismoactivocordoba.com</p>
+				<p>03544-15405957</p>
+				<p>03544-15563650</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+		</div><!-- fin pie -->   
+</body>
+</html>
