@@ -1,0 +1,183 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+	<head>
+		<title>Terapia Floral | Espacio Nuevo Ser</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<meta http-equiv="window-target" content="_top" />
+		<meta name="author" content="Innova Desarrollo Web - Diseño Web en Traslasierra" />
+		<meta name="generator" content="Aptana" />
+		<meta name="robots" content="all" />
+		<meta name="description" content="La terapia floral es un sistema de sanación natural a través de esencias florales de origen Galés, descubierto por Edward Bach, médico cirujano, bacteriólogo e investigador en 1936. Bach logró integrar su saber y experiencia en la medicina con una gran sensibilidad y percepción, así fue como descubrió las propiedades de 37 flores que ayudan de manera no invasiva a sanar el alma y el cuerpo." />
+		<meta name="keywords" content="yoga, masajes, reiki, traslasierra, tarot, registros akashicos, flores de bach, memoria celular, pilates" />
+		<meta name="viewport"content="width=device-width,initial-scale=1.0"/>
+        <link href="../imagenes/miniaturas_face/terapiafloral.jpg" rel="image_src" />
+		<link rel="icon" type="image/png" href="../imagenes/favicon.png"/>
+		<link rel="stylesheet" type="text/css" href="../cssgenerales/reset.css"  />
+		<link rel="stylesheet" type="text/css" href="../cssgenerales/estilos.css" />
+		<link rel="stylesheet" type="text/css" href="../cssgenerales/estilos_slider.css" />
+        <script type="text/javascript"><!--//--><![CDATA[//><!--
+         function prepareTargetBlank(){
+         var className = 'external';
+         var as = document.getElementsByTagName('a');
+         for(i=0;i<as.length;i++){
+         var a = as[i];
+         r=new RegExp("(^| )"+className+"($| )");
+         if(r.test(a.className)){
+         a.onclick = function(){
+         window.open(this.href);
+         return false;
+         }
+      }
+    }
+}
+
+window.onload = prepareTargetBlank;
+
+         //--><!]]></script>  
+		  <script type='text/javascript' src='../js_slider/jquery.min.js'></script>
+         <script type='text/javascript' src='../js_slider/jquery.mobile.customized.min.js'></script>
+         <script type='text/javascript' src='../js_slider/jquery.easing.1.3.js'></script> 
+         <script type='text/javascript' src='../js_slider/camera.min.js'></script> 
+         <script type='text/javascript'>
+		 jQuery(function(){
+			jQuery('#camera_wrap_4').camera({
+				height: 'auto',
+				loader: 'none',
+				pagination: false,
+				thumbnails: false,
+				hover: false,
+				opacityOnGrid: false,
+				imagePath: '../images/',
+				fx: 'simpleFade',
+				time: 2000,
+				transPeriod: 4500,
+				playPause: false,
+				navigation: false
+				
+				
+			});
+
+		 });
+	     </script>       
+		 <script type="text/javascript" src="../media_queries.js"></script>
+	</head>
+    <body id="terapiafloral" class="paginadearticulo" >
+    	    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.7";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    	<div id="contenedor_principal">
+    		<div id="franja_superior">
+    			<div id="contenedor_franjasuperior">
+					<div id="redes_sociales">
+    			</div>
+					<p id="tel">3544 51 7352 |</p>
+					<p id="email">espacionuevoser@gmail.com | </p>
+					<a id="boton_face" href="https://www.facebook.com/yoga.anandi?ref=ts&fref=ts">Facebook</a>
+				</div>
+    		</div><!-- fin franja superior -->
+			<div id="franja_superior_dos">
+				<div id="contenedor_menu">
+					<div id="logo"></div><!-- fin logo -->
+					<div id="menu">
+								<ul id="lista_principal">
+									<li><a id="boton_inicio" href="../index.html">Inicio</a></li>
+									<li><a id="boton_quienessomos" href="../quienessomos.html">Quienes somos</a></li>
+									<li><a id="boton_actividades" href="#">Actividades</a>
+											<ul id="lista_secundaria">
+													<li><a id="boton_yoga" href="../yoga.html">Yoga</a></li>
+													<li><a id="boton_reiki" href="../reiki.html">Reiki</a></li>
+													<li><a id="boton_tarot" href="../tarot.html">Tarot</a></li>
+													<li><a id="boton_registros" href="../registros.html">Registros Akashicos</a></li>
+													<li><a id="boton_flores" href="../flores.html">Flores de Bach</a></li>
+													<li><a id="boton_masajes" href="../masajes.html">Masajes</a></li>
+													<li><a id="boton_psicologia" href="../psicologia.html">Psicologia</a></li>
+													<li><a id="boton_memoria" href="../memoria.html">Memoria Celular</a></li>
+												</ul></li>
+									<li><a id="boton_articulos" href="articulos.html">Art&iacute;culos</a></li>
+									<li><a id="boton_contacto" href="../contacto.html">Contacto</a></li>
+								</ul>
+							</div><!-- fin menu -->
+							<div class="clear"></div>
+				</div><!-- fin contenedor menu -->
+			</div><!-- fin franja superior dos -->
+
+			<div id="presentacion">
+				<h1>Terapia Floral</h1>
+			<div id="contenedor_cuerpo">
+				<div id="slider" class="fluid_container">
+    			<div class="camera_wrap camera_emboss pattern_1" id="camera_wrap_4">
+                    <div  data-src="../imagenes/slides/terapiafloral01.jpg"></div>
+                    <div  data-src="../imagenes/slides/terapiafloral01.jpg"></div>
+			    </div><!-- #camera_wrap_4 -->
+            	</div><!-- .fluid_container -->
+				<div id="cuerpo">
+					<div id="contenedor_articulos">
+						<p>La terapia floral es un sistema de sanaci&oacute;n natural a trav&eacute;s de esencias florales de origen Gal&eacute;s, descubierto por Edward Bach, m&eacute;dico cirujano, bacteri&oacute;logo e investigador en 1936. Bach logr&oacute; integrar su saber y experiencia en la medicina con una gran sensibilidad y percepci&oacute;n, as&iacute; fue como descubri&oacute; las propiedades de 37 flores que ayudan de manera no invasiva a sanar el alma y el cuerpo.</p>
+
+<p>Historia y origen del sistema: </p>
+
+<p>El Dr. Bach en sus inicios en la medicina alop&aacute;tica observaba que no todos los pacientes que pose&iacute;an la misma patolog&iacute;a y eran tratados con la misma medicaci&oacute;n respond&iacute;an al tratamiento de igual manera. All&iacute; entendi&oacute; que hab&iacute;a otro factor crucial que hacia la diferencia: la personalidad. La mirada del Dr. Bach era completa y profunda, fue pionero en considerar al ser humano de manera integral haciendo hincapi&eacute; en que poseemos un alma y una personalidad. La primera es la parte divina, intuitiva, inmortal, aquella porci&oacute;n de nosotros que sabe a que vinimos a la tierra, sus aprendizajes y sus dones. La otra parte es aquella m&aacute;s terrenal, perecedera y material. Si ambas no est&aacute;n en armon&iacute;a sucede lo que conocemos como enfermedad. Una expresi&oacute;n del alma a trav&eacute;s del cuerpo, una manera de conocer que sucede en lo profundo cuando a&uacute;n no logramos ser conscientes de ello en la superficie. </p>
+
+<p>Desde esta mirada la salud, el bienestar y la alegr&iacute;a son parte del estado natural del ser. Por tanto, emociones de enojo, odio, angustia o temor tambi&eacute;n se considera un desequilibrio o &ldquo;enfermedad&rdquo; a tratar. Por ello cada paciente es un universo diferente que hay que abordar de manera individual, teniendo en cuenta su historia, sus aprendizajes, su momento presente, sus sentimientos, emociones y dificultades. </p>
+
+<p>Forma de trabajo: </p>
+
+<p>Durante una sesi&oacute;n de terapia floral, nos tomamos alrededor de una hora para dialogar con el consultante, conocer como ha llegado a este s&iacute;ntoma, no solo reconocer el s&iacute;ntoma. No se busca &ldquo;callar&rdquo; de golpe el dolor, sino m&aacute;s bien, progresivamente llevarlo a tomar conciencia de los patrones de conducta que lo llevaron a enfermarse y los recursos que tiene para recuperar la salud f&iacute;sica y el equilibrio emocional / mental. A medida que toma conciencia de los or&iacute;genes, va sanando. Entonces el resultado es un s&iacute;ntoma que no vuelve a repetirse, porque aprendi&oacute; que situaciones, pensamientos o h&aacute;bitos son los que lo enferman. Sana y evoluciona. Eso busca la terapia floral. Cada una de las flores descubiertas por el Doctor, poseen una vibraci&oacute;n especial que armoniza diferentes estados emocionales y mentales.</p>
+
+<p>El sistema floral es amplio, posee 38 esencias m&aacute;s un remedio de rescate para situaciones de emergencia. Algunas de ellas son de car&aacute;cter transitorio, es decir para tratar emociones presentes que son circunstanciales debido a alg&uacute;n acontecimiento que me despert&oacute; miedo, angustia, enojo, ira, llanto desbordante, etc. Otras en cambio son llamadas &ldquo;caracterol&oacute;gicas&rdquo; que tienen que ver con los rasgos de personalidad de quien consulta.</p>
+
+<p>En la sesi&oacute;n se realiza el preparado en el momento, incluyendo flores transitorias y caracterol&oacute;gicas. Si la persona decide realizar el tratamiento por varias semanas, estas &uacute;ltimas se seguir&aacute;n trabajando pero las otras ir&aacute;n cambiando en funci&oacute;n de las nuevas emociones que vayan apareciendo. Recuerden que todo evoluciona y se transforma. Lo que hoy es enojo quiz&aacute;s m&aacute;s adelante sea angustia, lo que hoy es rencor, m&aacute;s adelante puede transformarse en compasi&oacute;n, etc. &iquest;En qu&eacute; me pueden ayudar las flores de Bach? En el plano emocional: ansiedad, miedos, fobias, ataques de p&aacute;nico, falta de inter&eacute;s o motivaci&oacute;n, duelos, p&eacute;rdidas, depresi&oacute;n, tristeza, nostalgia, inseguridad, indecisi&oacute;n, impaciencia, celos, ira, rencor, enojo, culpa, baja autoestima, etc.</p>
+
+<p>En el plano mental: exceso de pensamientos, problemas de aprendizaje, falta de memoria, falta de concentraci&oacute;n, desvalorizaci&oacute;n personal, dispersi&oacute;n mental.</p>
+
+<p>En el plano f&iacute;sico: insomnio, agotamiento, migra&ntilde;as, trastornos circulatorios, problemas digestivos, &uacute;lceras, gastritis, contracturas, artritis, etc.</p>
+
+<p>Apto para usar en adultos, ni&ntilde;os, embarazadas, mascotas o plantas. </p>
+
+<p>Bach dice en &ldquo;C&uacute;rese Usted Mismo&rdquo;: </p>
+
+<p>Nunca se erradicar&aacute; ni se curar&aacute; una enfermedad con los actuales m&eacute;todos materialistas por la sencilla raz&oacute;n de que la enfermedad no es material en su origen. Lo que nosotros conocemos como enfermedad es el &uacute;ltimo resultado producido en el cuerpo, el producto final de fuerzas profundas y duraderas y aunque el tratamiento material solo sea aparentemente eficaz es un mero alivio temporal si no se suprime la causa real&rdquo;</p>
+					</div>
+					<div class="fb-like" data-href="http://espacionuevoser.com.ar/articulos/terapiafloral.html" data-layout="standard" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
+				</div>
+				
+				</div><!-- fin cuerpo -->
+			</div><!-- fin contenedor cuerpo -->
+			<div id="franja_inferior">
+				<div id="pie">
+					<div class="columnas_pie">
+					<div id="logo_pie"></div>
+				</div>
+				<div class="columnas_pie" id="resumen_sitio">
+				  <ul>
+				  	 <li><a href="../yoga.html">Yoga</a></li>
+					 <li><a href="../tarot.html">Tarot</a></li>
+					 <li><a href="../reiki.html">Reiki</a></li>
+					 <li><a href="../masajes.html">Masajes</a></li>
+					 <li><a href="../registros.html">Registros Akashicos</a></li>
+					 <li><a href="../flores.html">Flores de Bach</a></li>
+					 <li><a href="../memoria.html">Memoria Celular</a></li>
+					 <li><a href="../psicologia.html">Psicologia</a></li>
+					 <li><a href="../quienessomos.html">Quienes somos</a></li>
+					 <li><a href="../contacto.html">Contactanos</a></li>
+					 <li class="clear"></li>
+				  </ul>
+				</div>
+				<div class="columnas_pie" id="datos">
+				<p id="lugar">Mina Clavero - Traslasierra</p>
+				<p id="tel_pie">3544 51 7352</p>
+				<p id="email_pie">espacionuevoser@gmail.com</p>
+				<p id="quienes">Paula Santiago - Oscar Mardones Ly</p>
+				</div>
+				<div class="clear"></div>
+				</div><!-- fin pie -->
+				<div id="innova"><a href="http://www.innovadesarrolloweb.com.ar">diseñado por</a></div>
+			</div><!-- fin franja inferior -->
+		</div><!-- fin contenedor principal -->					
+	</body>
+</html>

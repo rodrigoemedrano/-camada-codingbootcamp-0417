@@ -1,0 +1,162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+	<head>
+		<title>Concepto de salud y enfermedad desde una mirada integradora | Espacio Nuevo Ser</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<meta http-equiv="window-target" content="_top" />
+		<meta name="author" content="Innova Desarrollo Web - Diseño Web en Traslasierra" />
+		<meta name="generator" content="Aptana" />
+		<meta name="robots" content="all" />
+		<meta name="description" content="En este espacio trabajamos para y por la salud. Pero ¿Qué entendemos por “persona saludable”? En occidente solemos decir que quien carece de enfermedad física es alguien “sano” y cuando enfermamos, vamos al médico, nos receta algo y con eso “nos curamos”. ¿Nos curamos? No del todo" />
+		<meta name="keywords" content="yoga, masajes, reiki, traslasierra, tarot, registros akashicos, flores de bach, memoria celular, pilates" />
+		<meta name="viewport"content="width=device-width,initial-scale=1.0"/>
+        <link href="../imagenes/miniaturas_face/saludyenfermedad.jpg" rel="image_src" />
+		<link rel="icon" type="image/png" href="../imagenes/favicon.png"/>
+		<link rel="stylesheet" type="text/css" href="../cssgenerales/reset.css"  />
+		<link rel="stylesheet" type="text/css" href="../cssgenerales/estilos.css" />
+		<link rel="stylesheet" type="text/css" href="../cssgenerales/estilos_slider.css" />
+        <script type="text/javascript"><!--//--><![CDATA[//><!--
+         function prepareTargetBlank(){
+         var className = 'external';
+         var as = document.getElementsByTagName('a');
+         for(i=0;i<as.length;i++){
+         var a = as[i];
+         r=new RegExp("(^| )"+className+"($| )");
+         if(r.test(a.className)){
+         a.onclick = function(){
+         window.open(this.href);
+         return false;
+         }
+      }
+    }
+}
+
+window.onload = prepareTargetBlank;
+
+         //--><!]]></script>  
+		  <script type='text/javascript' src='../js_slider/jquery.min.js'></script>
+         <script type='text/javascript' src='../js_slider/jquery.mobile.customized.min.js'></script>
+         <script type='text/javascript' src='../js_slider/jquery.easing.1.3.js'></script> 
+         <script type='text/javascript' src='../js_slider/camera.min.js'></script> 
+         <script type='text/javascript'>
+		 jQuery(function(){
+			jQuery('#camera_wrap_4').camera({
+				height: 'auto',
+				loader: 'none',
+				pagination: false,
+				thumbnails: false,
+				hover: false,
+				opacityOnGrid: false,
+				imagePath: '../images/',
+				fx: 'simpleFade',
+				time: 2000,
+				transPeriod: 4500,
+				playPause: false,
+				navigation: false
+				
+				
+			});
+
+		 });
+	     </script>       
+		 <script type="text/javascript" src="../media_queries.js"></script>
+	</head>
+    <body id="saludyenfermedad" class="paginadearticulo" >
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.7";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    	<div id="contenedor_principal">
+    		<div id="franja_superior">
+    			<div id="contenedor_franjasuperior">
+					<div id="redes_sociales">
+    			</div>
+					<p id="tel">3544 51 7352 |</p>
+					<p id="email">espacionuevoser@gmail.com | </p>
+					<a id="boton_face" href="https://www.facebook.com/yoga.anandi?ref=ts&fref=ts">Facebook</a>
+				</div>
+    		</div><!-- fin franja superior -->
+			<div id="franja_superior_dos">
+				<div id="contenedor_menu">
+					<div id="logo"></div><!-- fin logo -->
+					<div id="menu">
+								<ul id="lista_principal">
+									<li><a id="boton_inicio" href="../index.html">Inicio</a></li>
+									<li><a id="boton_quienessomos" href="../quienessomos.html">Quienes somos</a></li>
+									<li><a id="boton_actividades" href="#">Actividades</a>
+											<ul id="lista_secundaria">
+													<li><a id="boton_yoga" href="../yoga.html">Yoga</a></li>
+													<li><a id="boton_reiki" href="../reiki.html">Reiki</a></li>
+													<li><a id="boton_tarot" href="../tarot.html">Tarot</a></li>
+													<li><a id="boton_registros" href="../registros.html">Registros Akashicos</a></li>
+													<li><a id="boton_flores" href="../flores.html">Flores de Bach</a></li>
+													<li><a id="boton_masajes" href="../masajes.html">Masajes</a></li>
+													<li><a id="boton_psicologia" href="../psicologia.html">Psicologia</a></li>
+													<li><a id="boton_memoria" href="../memoria.html">Memoria Celular</a></li>
+												</ul></li>
+									<li><a id="boton_articulos" href="articulos.html">Art&iacute;culos</a></li>
+									<li><a id="boton_contacto" href="../contacto.html">Contacto</a></li>
+								</ul>
+							</div><!-- fin menu -->
+							<div class="clear"></div>
+				</div><!-- fin contenedor menu -->
+			</div><!-- fin franja superior dos -->
+
+			<div id="presentacion">
+				<h1>Concepto de salud y enfermedad desde una mirada integradora</h1>
+			<div id="contenedor_cuerpo">
+				<div id="slider" class="fluid_container">
+    			<div class="camera_wrap camera_emboss pattern_1" id="camera_wrap_4">
+                    <div  data-src="../imagenes/slides/salud01.jpg"></div>
+                    <div  data-src="../imagenes/slides/salud01.jpg"></div>
+			    </div><!-- #camera_wrap_4 -->
+            	</div><!-- .fluid_container -->
+				<div id="cuerpo">
+					<div id="contenedor_articulos">
+						<p>En este espacio trabajamos para y por la salud. Pero &iquest;Qu&eacute; entendemos por &ldquo;persona saludable&rdquo;? En occidente solemos decir que quien carece de enfermedad f&iacute;sica es alguien &ldquo;sano&rdquo; y cuando enfermamos, vamos al m&eacute;dico, nos receta algo y con eso &ldquo;nos curamos&rdquo;.  &iquest;Nos curamos? No del todo.  El proceso en realidad comienza mucho antes de que la enfermedad se instale y no finaliza cuando ella desaparece provisoriamente. Volvamos a empezar, revisando m&aacute;s profundo esta idea.</p>
+						<p>El Ser Humano tiene un cuerpo f&iacute;sico, un cuerpo mental y un cuerpo de emociones y sentimientos. Podemos decir que estas tres dimensiones o tres cuerpos conviven en nosotros, interact&uacute;an y se influencian mutuamente. Entonces, si mi mente est&aacute; hiperactiva, mi cuerpo reacciona tension&aacute;ndose y mis emociones ser&aacute;n de ansiedad. Si en mi cuerpo emocional est&aacute; predominando una angustia por un duelo que estoy transitando, mi cuerpo f&iacute;sico se sentir&aacute; d&eacute;bil, sin ganas y mi mente tendr&aacute; pensamientos de tristeza. &iquest;Lo has notado? Entonces, es sencillo percibir como cuando una de esas dimensiones de mi est&aacute; afectada, las dem&aacute;s tambi&eacute;n sufrir&aacute;n. Desde esta mirada el concepto de salud cambia, ya que una desarmon&iacute;a a nivel emocional tambi&eacute;n es un malestar a trabajar para que no avance hacia el plano f&iacute;sico.</p>
+						<p>EL Dr Bach, dec&iacute;a que el alma se expresaba a trav&eacute;s del cuerpo f&iacute;sico, entonces el mismo enfermaba cuando hab&iacute;a algo m&aacute;s profundo que ver y aprender. Cuando existe una desarmon&iacute;a a nivel emocional y no somos capaces de verlo a tiempo el cuerpo f&iacute;sico enferma. Por ello, con un medicamento la soluci&oacute;n es provisoria, lo que har&aacute; ser&aacute; calmar el s&iacute;ntoma pero no resuelve la causa, no sana la herida de ra&iacute;z. Puede pasar, que ese s&iacute;ntoma se vaya, creamos que ya est&aacute; resuelto y m&aacute;s adelante se enferma otra parte del cuerpo o sufro alguna ca&iacute;da, accidente, etc. Nada de eso es casual, es nuestra propia voz interior llamando nuestra atenci&oacute;n para poder aprender. </p>
+						<p>&iquest;Cu&aacute;l es entonces la forma de permanecer sanos? Aumentando el nivel de conciencia sobre nosotros mismos.  </p>
+					</div>
+					<div class="fb-like" data-href="http://espacionuevoser.com.ar/articulos/saludyenfermedad.html" data-layout="standard" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
+				</div>
+				
+				</div><!-- fin cuerpo -->
+			</div><!-- fin contenedor cuerpo -->
+			<div id="franja_inferior">
+				<div id="pie">
+					<div class="columnas_pie">
+					<div id="logo_pie"></div>
+				</div>
+				<div class="columnas_pie" id="resumen_sitio">
+				  <ul>
+				  	 <li><a href="../yoga.html">Yoga</a></li>
+					 <li><a href="../tarot.html">Tarot</a></li>
+					 <li><a href="../reiki.html">Reiki</a></li>
+					 <li><a href="../masajes.html">Masajes</a></li>
+					 <li><a href="../registros.html">Registros Akashicos</a></li>
+					 <li><a href="../flores.html">Flores de Bach</a></li>
+					 <li><a href="../memoria.html">Memoria Celular</a></li>
+					 <li><a href="../psicologia.html">Psicologia</a></li>
+					 <li><a href="../quienessomos.html">Quienes somos</a></li>
+					 <li><a href="../contacto.html">Contactanos</a></li>
+					 <li class="clear"></li>
+				  </ul>
+				</div>
+				<div class="columnas_pie" id="datos">
+				<p id="lugar">Mina Clavero - Traslasierra</p>
+				<p id="tel_pie">3544 51 7352</p>
+				<p id="email_pie">espacionuevoser@gmail.com</p>
+				<p id="quienes">Paula Santiago - Oscar Mardones Ly</p>
+				</div>
+				<div class="clear"></div>
+				</div><!-- fin pie -->
+				<div id="innova"><a href="http://www.innovadesarrolloweb.com.ar">diseñado por</a></div>
+			</div><!-- fin franja inferior -->
+		</div><!-- fin contenedor principal -->					
+	</body>
+</html>

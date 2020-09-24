@@ -1,0 +1,163 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+	<head>
+		<title>Lectura de Registros Ak&aacute;shicos, como sucede y como nos ayuda a sanar | Espacio Nuevo Ser</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<meta http-equiv="window-target" content="_top" />
+		<meta name="author" content="Innova Desarrollo Web - Diseño Web en Traslasierra" />
+		<meta name="generator" content="Aptana" />
+		<meta name="robots" content="all" />
+		<meta name="description" content="Para poder realizar sesiones de registros akáshicos, es necesario ser iniciado por un maestro que nos enseñe y ayude a sintonizarnos con nuestro Yo Superior, nuestros guías y maestros personales. La canalización se produce a través del chakra corona y se sostiene con el cardíaco, no es clarividencia, ni adivinación. Se trata de aprender a decodificar el idioma de la luz y cada canal tendrá su manera de hacerlo. " />
+		<meta name="keywords" content="yoga, masajes, reiki, traslasierra, tarot, registros akashicos, flores de bach, memoria celular, pilates" />
+		<meta name="viewport"content="width=device-width,initial-scale=1.0"/>
+        <link href="../imagenes/miniaturas_face/lecturaderegistros.jpg" rel="image_src" />
+		<link rel="icon" type="image/png" href="../imagenes/favicon.png"/>
+		<link rel="stylesheet" type="text/css" href="../cssgenerales/reset.css"  />
+		<link rel="stylesheet" type="text/css" href="../cssgenerales/estilos.css" />
+		<link rel="stylesheet" type="text/css" href="../cssgenerales/estilos_slider.css" />
+        <script type="text/javascript"><!--//--><![CDATA[//><!--
+         function prepareTargetBlank(){
+         var className = 'external';
+         var as = document.getElementsByTagName('a');
+         for(i=0;i<as.length;i++){
+         var a = as[i];
+         r=new RegExp("(^| )"+className+"($| )");
+         if(r.test(a.className)){
+         a.onclick = function(){
+         window.open(this.href);
+         return false;
+         }
+      }
+    }
+}
+
+window.onload = prepareTargetBlank;
+
+         //--><!]]></script>  
+		  <script type='text/javascript' src='../js_slider/jquery.min.js'></script>
+         <script type='text/javascript' src='../js_slider/jquery.mobile.customized.min.js'></script>
+         <script type='text/javascript' src='../js_slider/jquery.easing.1.3.js'></script> 
+         <script type='text/javascript' src='../js_slider/camera.min.js'></script> 
+         <script type='text/javascript'>
+		 jQuery(function(){
+			jQuery('#camera_wrap_4').camera({
+				height: 'auto',
+				loader: 'none',
+				pagination: false,
+				thumbnails: false,
+				hover: false,
+				opacityOnGrid: false,
+				imagePath: '../images/',
+				fx: 'simpleFade',
+				time: 2000,
+				transPeriod: 4500,
+				playPause: false,
+				navigation: false
+				
+				
+			});
+
+		 });
+	     </script>       
+		 <script type="text/javascript" src="../media_queries.js"></script>
+	</head>
+    <body id="lecturaderegistros" class="paginadearticulo" >
+    	 <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.7";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    	<div id="contenedor_principal">
+    		<div id="franja_superior">
+    			<div id="contenedor_franjasuperior">
+					<div id="redes_sociales">
+    			</div>
+					<p id="tel">3544 51 7352 |</p>
+					<p id="email">espacionuevoser@gmail.com | </p>
+					<a id="boton_face" href="https://www.facebook.com/yoga.anandi?ref=ts&fref=ts">Facebook</a>
+				</div>
+    		</div><!-- fin franja superior -->
+			<div id="franja_superior_dos">
+				<div id="contenedor_menu">
+					<div id="logo"></div><!-- fin logo -->
+					<div id="menu">
+								<ul id="lista_principal">
+									<li><a id="boton_inicio" href="../index.html">Inicio</a></li>
+									<li><a id="boton_quienessomos" href="../quienessomos.html">Quienes somos</a></li>
+									<li><a id="boton_actividades" href="#">Actividades</a>
+											<ul id="lista_secundaria">
+													<li><a id="boton_yoga" href="../yoga.html">Yoga</a></li>
+													<li><a id="boton_reiki" href="../reiki.html">Reiki</a></li>
+													<li><a id="boton_tarot" href="../tarot.html">Tarot</a></li>
+													<li><a id="boton_registros" href="../registros.html">Registros Akashicos</a></li>
+													<li><a id="boton_flores" href="../flores.html">Flores de Bach</a></li>
+													<li><a id="boton_masajes" href="../masajes.html">Masajes</a></li>
+													<li><a id="boton_psicologia" href="../psicologia.html">Psicologia</a></li>
+													<li><a id="boton_memoria" href="../memoria.html">Memoria Celular</a></li>
+												</ul></li>
+									<li><a id="boton_articulos" href="articulos.html">Art&iacute;culos</a></li>
+									<li><a id="boton_contacto" href="../contacto.html">Contacto</a></li>
+								</ul>
+							</div><!-- fin menu -->
+							<div class="clear"></div>
+				</div><!-- fin contenedor menu -->
+			</div><!-- fin franja superior dos -->
+
+			<div id="presentacion">
+				<h1>Lectura de Registros Ak&aacute;shicos, como sucede y como nos ayuda a sanar</h1>
+			<div id="contenedor_cuerpo">
+				<div id="slider" class="fluid_container">
+    			<div class="camera_wrap camera_emboss pattern_1" id="camera_wrap_4">
+                    <div  data-src="../imagenes/slides/registrosarticulo01.jpg"></div>
+                    <div  data-src="../imagenes/slides/registrosarticulo01.jpg"></div>
+			    </div><!-- #camera_wrap_4 -->
+            	</div><!-- .fluid_container -->
+				<div id="cuerpo">
+					<div id="contenedor_articulos">
+						<p>Para poder realizar sesiones de registros ak&aacute;shicos, es necesario ser iniciado por un maestro que nos ense&ntilde;e y ayude a sintonizarnos con nuestro Yo Superior, nuestros gu&iacute;as y maestros personales. La canalizaci&oacute;n se produce a trav&eacute;s del chakra corona y se sostiene con el card&iacute;aco, no es clarividencia, ni adivinaci&oacute;n. Se trata de aprender a decodificar el idioma de la luz y cada canal tendr&aacute; su manera de hacerlo. Algunos son m&aacute;s visuales, otros m&aacute;s auditivos, otros reciben se&ntilde;ales en forma de sensaciones corporales, etc. Todas las formas de canalizaci&oacute;n son v&aacute;lidas.</p>
+						<p>Despu&eacute;s de un tiempo de trabajo con uno mismo, podemos continuar con el siguiente nivel: el trabajo con los otros.  La herramienta busca despertar el maestro interno de cada uno, es una gu&iacute;a para destrabar este presente. Por dicho motivo, no se realizan m&aacute;s de dos o tres sesiones al a&ntilde;o, dependiendo del nivel de conciencia del consultante. No deseamos generar dependencia, m&aacute;s bien que cada uno con toda la informaci&oacute;n que reciba durante una lectura pueda trabajar, tomarse el tiempo de acomodar y comprender con todos los niveles de su Ser las experiencias por las cuales est&aacute; transitando, que aprendizajes le tocan en este momento, como y porque nuestra vida en de esta manera, etc. </p>
+						<p>En el akasha est&aacute; toda la informaci&oacute;n de todas las almas, una lectura nos permite obtener mayor comprensi&oacute;n y claridad sobre situaciones problem&aacute;ticas, nos da recursos para encarar y resolverlas de manera m&aacute;s favorable. Al acceder a esta informaci&oacute;n y ponernos en contacto con seres de altas frecuencias se genera en nosotros instant&aacute;neamente una sanaci&oacute;n y limpieza, adem&aacute;s de la comprensi&oacute;n a la que nos llevan las respuestas canalizadas por el facilitador. Sin importar los temas que traigamos a la lectura siempre nos situaremos en el &uacute;nico tiempo donde podemos hacer modificaciones: el PRESENTE. Si bien para comprenderlo a veces necesitamos datos del pasado siempre partiremos de la idea de que en este aqu&iacute; y ahora yo construyo mi realidad. Entonces, tomar conciencia hoy es fundamental para saber llevar las situaciones de mi vida lo mejor posible seg&uacute;n lo que mi alma deba aprender, seg&uacute;n mi propia evoluci&oacute;n espiritual.</p>
+						<p>Es importante no juzgarse, ni exigirse, nuestros maestros nos aman y aceptan tal cual somos, parte del trabajo personal es lograr amarse y aceptarse con compasi&oacute;n y comprensi&oacute;n. Es necesario recordar que somos almas en evoluci&oacute;n permanente y ese &ldquo;error&rdquo; que comet&iacute;, solo se debi&oacute; a mi falta de conciencia en ese momento. Si yo puedo aprender y transformar ese patr&oacute;n ese &ldquo;error&rdquo; quedar&aacute; como una an&eacute;cdota de mi vida, una situaci&oacute;n que me ayudo a crecer y a mejorar, a conocerme un poco m&aacute;s y revisar mis creencias.</p>
+						<p>Entonces, podemos decir que durante una lectura nuestros cuerpos se limpian, nuestra frecuencia vibratoria cambia, tomamos conciencia, comenzamos a comprender que amarnos y aceptarnos es el camino de la transformaci&oacute;n, somos co creadores de nuestra realidad.  Aceptarnos sin juicio es darse la posibilidad de cambiar.</p>
+					</div>
+					<div class="fb-like" data-href="http://espacionuevoser.com.ar/articulos/lecturaderegistrosakashicos.html" data-layout="standard" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
+				</div>
+				
+				</div><!-- fin cuerpo -->
+			</div><!-- fin contenedor cuerpo -->
+			<div id="franja_inferior">
+				<div id="pie">
+					<div class="columnas_pie">
+					<div id="logo_pie"></div>
+				</div>
+				<div class="columnas_pie" id="resumen_sitio">
+				  <ul>
+				  	 <li><a href="../yoga.html">Yoga</a></li>
+					 <li><a href="../tarot.html">Tarot</a></li>
+					 <li><a href="../reiki.html">Reiki</a></li>
+					 <li><a href="../masajes.html">Masajes</a></li>
+					 <li><a href="../registros.html">Registros Akashicos</a></li>
+					 <li><a href="../flores.html">Flores de Bach</a></li>
+					 <li><a href="../memoria.html">Memoria Celular</a></li>
+					 <li><a href="../psicologia.html">Psicologia</a></li>
+					 <li><a href="../quienessomos.html">Quienes somos</a></li>
+					 <li><a href="../contacto.html">Contactanos</a></li>
+					 <li class="clear"></li>
+				  </ul>
+				</div>
+				<div class="columnas_pie" id="datos">
+				<p id="lugar">Mina Clavero - Traslasierra</p>
+				<p id="tel_pie">3544 51 7352</p>
+				<p id="email_pie">espacionuevoser@gmail.com</p>
+				<p id="quienes">Paula Santiago - Oscar Mardones Ly</p>
+				</div>
+				<div class="clear"></div>
+				</div><!-- fin pie -->
+				<div id="innova"><a href="http://www.innovadesarrolloweb.com.ar">diseñado por</a></div>
+			</div><!-- fin franja inferior -->
+		</div><!-- fin contenedor principal -->					
+	</body>
+</html>

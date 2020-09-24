@@ -1,0 +1,1203 @@
+@media screen and (max-width:459px) {
+
+}
+
+/* ------------------------------- 460 ----------------------------------------------------------- */
+
+@media screen and (min-width:460px) and (max-width:767px) {
+	
+}
+
+/* ------------------------------- 768 ----------------------------------------------------------- */
+
+@media screen and (min-width:768px) and (max-width:999px) {
+
+p {
+	font-family: "georgia", "times new roman", serif;
+	font-size: 0.9em;
+	line-height:1.3em;
+	color:#000;
+}
+
+h3 {
+	font-family: "georgia", "times new roman", serif;
+	font-style: italic;
+	font-size: 1em;
+	color:#666;
+	padding: 10px 0;
+	font-weight:bolder;
+}
+
+h1 {
+	width:700px;
+	margin: 0 auto;
+	padding: 30px 0;
+	font-family: "drugs", "times new roman", serif;
+	font-size: 3em;
+	color:#000;
+	text-indent:-99999px;
+}
+
+#quienessomos h1 {
+	background: url(../imagenes/h1_quienes.png) no-repeat;
+}
+
+#articulos h1 {
+	background: url(../imagenes/h1_articulos.png) no-repeat;
+}
+
+#contacto h1 {
+	background: url(../imagenes/h1_contacto.png) no-repeat;
+}
+
+#flores h1 {
+	background: url(../imagenes/h1_flores.png) no-repeat;
+}
+
+#masajes h1 {
+	background: url(../imagenes/h1_masajes.png) no-repeat;
+}
+
+#memoria h1 {
+	background: url(../imagenes/h1_memoria.png) no-repeat;
+}
+
+#psicologia h1 {
+	background: url(../imagenes/h1_psicologia.png) no-repeat;
+}
+
+#registros h1 {
+	background: url(../imagenes/h1_registros.png) no-repeat;
+}
+
+#reiki h1 {
+	background: url(../imagenes/h1_reiki.png) no-repeat;
+}
+
+#tarot h1 {
+	background: url(../imagenes/h1_tarot.png) no-repeat;
+}
+
+#yoga h1 {
+	background: url(../imagenes/h1_yoga.png) no-repeat;
+}
+
+#lecturaderegistros h1 {
+	background: url(../imagenes/h1_lecturaderegistros.png) no-repeat;
+}
+
+#nuestropeorenemigo h1 {
+	background: url(../imagenes/h1_nuestropeorenemigo.png) no-repeat;
+}
+
+#saludyenfermedad h1 {
+	background: url(../imagenes/h1_saludyenfermedad.png) no-repeat;
+}
+
+#terapiafloral h1 {
+	background: url(../imagenes/h1_terapiafloral.png) no-repeat;
+}
+
+#reikiusui h1 {
+	background: url(../imagenes/h1_reikiusui.png) no-repeat;
+}
+
+strong {
+	font-weight: bolder;
+}
+
+h2 {
+	margin: 0 auto;
+	padding:10px;
+	font-family: "drugs", "times new roman", serif;
+	font-size: 1.2em;
+	color:#000;
+	font-weight:bold;
+}
+
+.clear {
+	clear:both;
+}
+	
+#contenedor_principal {
+	width:100%;
+	background-color:#c9e0ea;
+}
+
+#franja_superior {
+	width:100%;
+	background-color: #bded90;
+	height:33px;
+	padding-top:2px;
+}
+
+#contenedor_franjasuperior {
+	width:1020px;
+	margin:0 auto;
+}
+
+#tel, #email, #boton_face {
+	float:left;
+}
+
+#tel {
+	line-height:28px;
+	margin-left:580px;
+	margin-right:10px;
+	color:#000;
+	padding-left:25px;
+	background: url(../imagenes/icono_telefono.png) no-repeat left;
+}
+
+#email {
+	line-height:28px;
+	margin-right:10px;
+	color:#000;
+	padding-left:27px;
+	background: url(../imagenes/icono_mail.png) no-repeat left;
+
+}
+
+#boton_face {
+	line-height:28px;
+	display:block;
+	padding-left:13px;
+	background: url(../imagenes/icono_facebook.png) no-repeat left;
+	text-decoration: none;
+	color: #000;
+	font-family: "calibri", "arial", sans-serif;
+}
+
+#franja_superior_dos {
+	width:100%;
+	height:100px;
+	background-color: #fff;
+	border-bottom: 4px solid #996699;
+}
+
+
+#contenedor_menu {
+	width:1020px;
+	margin: 0 auto;
+}
+
+#logo {
+	width:215px;
+	height:100px;
+	float:left;
+	margin:0px 10px;
+	background: url(../imagenes/logo.png) no-repeat;
+}
+
+#menu {
+	width:680px;
+	padding-left:20px;
+	height:100px;
+	float:left;
+}
+
+#menu a {
+	display:block;
+	text-decoration:none;
+	font-family: "georgia", "times new roman", serif;
+	font-style:italic;
+	font-size: 0.9em;
+	font-weight:600;
+	color:#a8a7a7;
+}
+
+#lista_principal li ul {
+	width:225px;
+	height:60px;
+	position: absolute;
+    left: -9999px;
+	padding-top: 13px;
+	margin-top:-23px;
+	background: url(../imagenes/fondo_listainterna.png) no-repeat;
+	z-index:9;
+}
+
+#lista_principal li:hover ul, #lista_principal li li:hover ul, #lista_principal li li li:hover ul, #lista_principal li.paraexplorer ul, #lista_principal li li.paraexplorer ul, #lista_principal li li li.paraexplorer ul {
+    left: auto;
+}
+
+#lista_principal {
+	overflow:hidden;
+}
+
+#lista_principal li {
+	float:left;
+}
+
+#lista_principal a {
+	padding: 43px 30px;
+}
+
+#lista_principal li li {
+	float:none;
+	width:205px;
+}
+
+#lista_principal li ul a {
+	width:180px;
+	height:10px;
+	font-size: 0.7em;
+	padding: 10px 0 10px 25px;
+	color:#fff;
+	background-color:#666;
+}
+
+#lista_principal a:hover {
+	color:#666666;
+}
+
+#lista_principal li ul a:hover {
+	color:#666666;
+	background-color:#c9e0ea;
+}
+
+#quienessomos #boton_quienessomos {
+	background-color: #996699;
+	color: #fff;
+}
+
+#yoga #boton_actividades, #tarot #boton_actividades, #flores #boton_actividades, #registros #boton_actividades, #memoria #boton_actividades, #reiki #boton_actividades, #psicologia #boton_actividades, #masajes #boton_actividades {
+	background-color: #996699;
+	color: #fff;
+}
+
+.paginadearticulo #boton_inicio {
+	background-color: #996699;
+	color: #fff;
+}
+
+#contacto #boton_contacto {
+	background-color: #996699;
+	color: #fff;
+}
+
+#fondo_atajos {
+	width:100%;
+	background-color: #996699;
+	position:relative;
+	z-index:1;
+}
+
+#contenedor_cuerpo {
+	position:relative;
+	width: 100%;
+}
+
+#contenedor_cuerpo p {
+	margin: 15px 0;
+}
+
+#slider {
+	position:absolut;
+	top:0;
+	left:0;
+	width:100%;
+	height:400px;
+}
+
+#quienessomos #slider {
+	height:1450px;
+}
+
+#contacto #slider {
+	height:940px;
+}
+
+#flores #slider {
+	height:500px;
+}
+
+#registros #slider {
+	height:450px;
+}
+
+#memoria #slider {
+	height:480px;
+}
+
+#reiki #slider {
+	height:520px;
+}
+
+#masajes #slider {
+	height:500px;
+}
+
+#psicologia #slider {
+	height:800px;
+}
+
+#saludyenfermedad #slider {
+	height:500px;
+}
+
+#lecturaderegistros #slider {
+	height:660px;
+}
+
+#nuestropeorenemigo #slider {
+	height:680px;
+}
+
+#terapiafloral #slider {
+	height:1110px;
+}
+
+#reikiusui #slider {
+	height:660px;
+}
+
+#articulos #slider {
+	height:1200px;
+}
+
+.fluid_container {
+	height: 100%;
+}
+
+#camera_wrap_4 {
+	height: 100%;
+}
+
+.camera_bar {
+	z-index: 2;
+}
+
+.camera_overlayer {
+	opacity: .1;
+}
+
+
+#cuerpo {
+	position:absolute;
+	width:880px;
+	top:30px;
+	left:50%;
+	margin-left:-460px;
+	padding:20px;
+	background: url(../imagenes/fondo_cuerpo.png) repeat-y;
+}
+
+
+#contenedor_articulos {
+	padding: 0 10px;
+	width:860px;
+	margin: 0 auto;
+
+}
+
+.articulos {
+	float:left;
+	width: 390px;
+	padding:15px;
+	background-color:#DFCEE2;
+	margin-top: 10px;
+}
+
+#quienessomos .articulos {
+	float:none;
+	width:530px;
+}
+
+.articulos img {
+	float:left;
+	display:block;
+	width:150px;
+	height:150px;
+	margin-right:10px;
+}
+
+.articulos p {
+	padding:0;
+	margin:0;
+	text-align:justify;
+}
+
+#articulos .articulos {
+	float:none;
+	width:96%;
+}
+
+#articulos .articulos img {
+	width:100px;
+	height:100px;
+}
+
+#articulos .articulos a {
+	display:block;
+	text-decoration:none;
+	color:#993399;
+	padding:5px;
+	text-align:right;
+}
+
+blockquote {
+	font-size:2em;
+	text-align:center;
+	font-style:italic;
+	width:800px;
+	margin:0 auto;
+} 
+
+cite {
+	display:block;
+	text-align:right;
+	font-style:italic;
+	font-weight:bolder;
+	font-size:1.2em;
+	width:800px;
+	margin:0 auto;
+}
+
+#paula {
+	margin-right: 20px;
+}
+
+#franja_inferior {
+	position:relative;
+	width:100%;
+	background-color: #bded90;
+	padding-top:40px;
+}
+
+#pie {
+	width:1020px;
+	margin: 0 auto;
+	padding-bottom:40px;
+}
+
+.columnas_pie {
+	width:33%;
+	float:left;
+}
+
+#logo_pie {
+	width:295px;
+	height:137px;
+	background: url(../imagenes/logo_pie.png) no-repeat;
+}
+
+#resumen_sitio li {
+	float:left;
+	width:50%;
+	line-height:20px;
+}
+
+#resumen_sitio a {
+	text-decoration:none;
+	color:#000;
+	text-align:center;
+	font-family: "georgia", "times new roman", serif;
+	font-size: 0.7em;
+}
+
+#lugar {
+	line-height:28px;
+	color:#000;
+	padding-left:25px;
+	background: url(../imagenes/icono_ubicacion.png) no-repeat left;
+}
+
+#quienes {
+	line-height:28px;
+	color:#000;
+	padding-left:25px;
+	background: url(../imagenes/icono_quienes.png) no-repeat left;
+}
+
+#tel_pie {
+	line-height:28px;
+	color:#000;
+	padding-left:25px;
+	background: url(../imagenes/icono_telefono.png) no-repeat left;
+}
+
+#email_pie {
+	line-height:28px;
+	color:#000;
+	padding-left:27px;
+	background: url(../imagenes/icono_mail.png) no-repeat left;
+}
+
+#innova {
+	width:100%;
+	line-height:30px;
+	background-color:#fff;
+}
+
+#innova a {
+	width:65px;
+	margin-left:10px;
+	display:block;
+	padding-right:60px;
+	background: url(../imagenes/logo_innova.gif) no-repeat right;
+	text-decoration:none;
+	font-family: "calibri", "arial", sans-serif;
+	font-size:0.7em;
+	color: #669933; 
+}
+
+#contacto #columna_uno {
+	float:left;
+	width:600px;
+	margin-bottom: 30px;
+}
+
+#contacto #columna_dos {
+	margin-top:40px;
+	width:200px;
+	margin-left: 18px;
+	float:left;
+	border: 1px dotted #555;
+	padding:20px;
+}
+
+#ubicacion {
+	border-top: 1px dotted #666;
+	padding-top:10px;
+}
+
+
+form {
+	width:600px;
+    font-family: "calibri", "arial", sans-serif;
+}
+
+input, textarea {
+	width:580px;
+	line-height:20px;
+	border: 1px solid #ccc;
+	margin: 5px 0;
+	padding:10px;
+    font-family: "calibri", "arial", sans-serif;
+}
+
+textarea {
+	font-size:0.8em;
+}
+
+.boton {
+	width:100px;
+	background-color: #663366;
+	padding:5px;
+	cursor: hand;
+	color:#fff;
+}
+
+.boton:hover {
+	background-color:#000;
+	color:#fff;
+}
+
+strong {
+	font-family: "georgia", "times new roman", serif;
+	font-style: italic;
+	font-size: 1em;
+	color:#666;
+	padding: 10px 0;
+	font-weight:bolder;
+}
+	
+}
+
+/* ------------------------------- 1030 ----------------------------------------------------------- */
+
+@media screen and (min-width:1000px) {
+	
+p {
+	font-family: "georgia", "times new roman", serif;
+	font-size: 0.9em;
+	line-height:1.3em;
+	color:#000;
+}
+
+h3 {
+	font-family: "georgia", "times new roman", serif;
+	font-style: italic;
+	font-size: 1em;
+	color:#666;
+	padding: 10px 0;
+	font-weight:bolder;
+}
+
+h1 {
+	width:900px;
+	margin: 0 auto;
+	padding: 30px 0;
+	font-family: "drugs", "times new roman", serif;
+	font-size: 3em;
+	color:#000;
+	text-indent:-99999px;
+}
+
+#quienessomos h1 {
+	background: url(../imagenes/h1_quienes.png) no-repeat;
+}
+
+#articulos h1 {
+	background: url(../imagenes/h1_articulos.png) no-repeat;
+}
+
+#contacto h1 {
+	background: url(../imagenes/h1_contacto.png) no-repeat;
+}
+
+#flores h1 {
+	background: url(../imagenes/h1_flores.png) no-repeat;
+}
+
+#masajes h1 {
+	background: url(../imagenes/h1_masajes.png) no-repeat;
+}
+
+#memoria h1 {
+	background: url(../imagenes/h1_memoria.png) no-repeat;
+}
+
+#psicologia h1 {
+	background: url(../imagenes/h1_psicologia.png) no-repeat;
+}
+
+#registros h1 {
+	background: url(../imagenes/h1_registros.png) no-repeat;
+}
+
+#reiki h1 {
+	background: url(../imagenes/h1_reiki.png) no-repeat;
+}
+
+#tarot h1 {
+	background: url(../imagenes/h1_tarot.png) no-repeat;
+}
+
+#yoga h1 {
+	background: url(../imagenes/h1_yoga.png) no-repeat;
+}
+
+#lecturaderegistros h1 {
+	background: url(../imagenes/h1_lecturaderegistros.png) no-repeat;
+}
+
+#nuestropeorenemigo h1 {
+	background: url(../imagenes/h1_nuestropeorenemigo.png) no-repeat;
+}
+
+#saludyenfermedad h1 {
+	background: url(../imagenes/h1_saludyenfermedad.png) no-repeat;
+}
+
+#terapiafloral h1 {
+	background: url(../imagenes/h1_terapiafloral.png) no-repeat;
+}
+
+#reikiusui h1 {
+	background: url(../imagenes/h1_reikiusui.png) no-repeat;
+}
+
+strong {
+	font-weight: bolder;
+}
+
+h2 {
+	margin: 0 auto;
+	padding:10px;
+	font-family: "drugs", "times new roman", serif;
+	font-size: 1.2em;
+	color:#000;
+	font-weight:bold;
+}
+
+.clear {
+	clear:both;
+}
+	
+#contenedor_principal {
+	width:100%;
+	background-color:#c9e0ea;
+}
+
+#franja_superior {
+	width:100%;
+	background-color: #bded90;
+	height:33px;
+	padding-top:2px;
+}
+
+#contenedor_franjasuperior {
+	width:1020px;
+	margin:0 auto;
+}
+
+#tel, #email, #boton_face {
+	float:left;
+}
+
+#tel {
+	line-height:28px;
+	margin-left:580px;
+	margin-right:10px;
+	color:#000;
+	padding-left:25px;
+	background: url(../imagenes/icono_telefono.png) no-repeat left;
+}
+
+#email {
+	line-height:28px;
+	margin-right:10px;
+	color:#000;
+	padding-left:27px;
+	background: url(../imagenes/icono_mail.png) no-repeat left;
+
+}
+
+#boton_face {
+	line-height:28px;
+	display:block;
+	padding-left:13px;
+	background: url(../imagenes/icono_facebook.png) no-repeat left;
+	text-decoration: none;
+	color: #000;
+	font-family: "calibri", "arial", sans-serif;
+}
+
+#franja_superior_dos {
+	width:100%;
+	height:100px;
+	background-color: #fff;
+	border-bottom: 4px solid #996699;
+}
+
+
+#contenedor_menu {
+	width:1020px;
+	margin: 0 auto;
+}
+
+#logo {
+	width:215px;
+	height:100px;
+	float:left;
+	margin:0px 10px;
+	background: url(../imagenes/logo.png) no-repeat;
+}
+
+#menu {
+	width:680px;
+	padding-left:20px;
+	height:100px;
+	float:left;
+}
+
+#menu a {
+	display:block;
+	text-decoration:none;
+	font-family: "georgia", "times new roman", serif;
+	font-style:italic;
+	font-size: 0.9em;
+	font-weight:600;
+	color:#a8a7a7;
+}
+
+#lista_principal li ul {
+	width:225px;
+	height:60px;
+	position: absolute;
+    left: -9999px;
+	padding-top: 13px;
+	margin-top:-23px;
+	background: url(../imagenes/fondo_listainterna.png) no-repeat;
+	z-index:9;
+}
+
+#lista_principal li:hover ul, #lista_principal li li:hover ul, #lista_principal li li li:hover ul, #lista_principal li.paraexplorer ul, #lista_principal li li.paraexplorer ul, #lista_principal li li li.paraexplorer ul {
+    left: auto;
+}
+
+#lista_principal {
+	overflow:hidden;
+}
+
+#lista_principal li {
+	float:left;
+}
+
+#lista_principal a {
+	padding: 43px 30px;
+}
+
+#lista_principal li li {
+	float:none;
+	width:205px;
+}
+
+#lista_principal li ul a {
+	width:180px;
+	height:10px;
+	font-size: 0.7em;
+	padding: 10px 0 10px 25px;
+	color:#fff;
+	background-color:#666;
+}
+
+#lista_principal a:hover {
+	color:#666666;
+}
+
+#lista_principal li ul a:hover {
+	color:#666666;
+	background-color:#c9e0ea;
+}
+
+#quienessomos #boton_quienessomos {
+	background-color: #996699;
+	color: #fff;
+}
+
+#yoga #boton_actividades, #tarot #boton_actividades, #flores #boton_actividades, #registros #boton_actividades, #memoria #boton_actividades, #reiki #boton_actividades, #psicologia #boton_actividades, #masajes #boton_actividades {
+	background-color: #996699;
+	color: #fff;
+}
+
+.paginadearticulo #boton_inicio {
+	background-color: #996699;
+	color: #fff;
+}
+
+#contacto #boton_contacto {
+	background-color: #996699;
+	color: #fff;
+}
+
+#fondo_atajos {
+	width:100%;
+	background-color: #996699;
+	position:relative;
+	z-index:1;
+}
+
+#contenedor_cuerpo {
+	position:relative;
+	width: 100%;
+}
+
+#contenedor_cuerpo p {
+	margin: 15px 0;
+}
+
+#slider {
+	position:absolut;
+	top:0;
+	left:0;
+	width:100%;
+	height:400px;
+}
+
+#quienessomos #slider {
+	height:2050px;
+}
+
+#contacto #slider {
+	height:940px;
+}
+
+#flores #slider {
+	height:500px;
+}
+
+#registros #slider {
+	height:450px;
+}
+
+#memoria #slider {
+	height:480px;
+}
+
+#reiki #slider {
+	height:520px;
+}
+
+#masajes #slider {
+	height:500px;
+}
+
+#psicologia #slider {
+	height:800px;
+}
+
+#saludyenfermedad #slider {
+	height:500px;
+}
+
+#lecturaderegistros #slider {
+	height:660px;
+}
+
+#nuestropeorenemigo #slider {
+	height:680px;
+}
+
+#terapiafloral #slider {
+	height:1110px;
+}
+
+#reikiusui #slider {
+	height:660px;
+}
+
+#articulos #slider {
+	height:1200px;
+}
+
+.fluid_container {
+	height: 100%;
+}
+
+#camera_wrap_4 {
+	height: 100%;
+}
+
+.camera_bar {
+	z-index: 2;
+}
+
+.camera_overlayer {
+	opacity: .1;
+}
+
+
+#cuerpo {
+	position:absolute;
+	width:880px;
+	top:30px;
+	left:50%;
+	margin-left:-460px;
+	padding:20px;
+	background: url(../imagenes/fondo_cuerpo.png) repeat-y;
+}
+
+
+#contenedor_articulos {
+	padding: 0 10px;
+	width:860px;
+	margin: 0 auto;
+
+}
+
+.articulos {
+	float:left;
+	width: 390px;
+	padding:15px;
+	background-color:#DFCEE2;
+	margin-top: 10px;
+}
+
+#quienessomos .articulos {
+	float:none;
+	width:830px;
+}
+
+.articulos img {
+	float:left;
+	display:block;
+	width:150px;
+	height:150px;
+	margin-right:10px;
+}
+
+.articulos p {
+	padding:0;
+	margin:0;
+	text-align:justify;
+}
+
+#articulos .articulos {
+	float:none;
+	width:96%;
+}
+
+#articulos .articulos img {
+	width:100px;
+	height:100px;
+}
+
+#articulos .articulos a {
+	display:block;
+	text-decoration:none;
+	color:#993399;
+	padding:5px;
+	text-align:right;
+}
+
+blockquote {
+	font-size:2em;
+	text-align:center;
+	font-style:italic;
+	width:800px;
+	margin:0 auto;
+} 
+
+cite {
+	display:block;
+	text-align:right;
+	font-style:italic;
+	font-weight:bolder;
+	font-size:1.2em;
+	width:800px;
+	margin:0 auto;
+}
+
+#paula {
+	margin-right: 20px;
+}
+
+#franja_inferior {
+	position:relative;
+	width:100%;
+	background-color: #bded90;
+	padding-top:40px;
+}
+
+#pie {
+	width:1020px;
+	margin: 0 auto;
+	padding-bottom:40px;
+}
+
+.columnas_pie {
+	width:33%;
+	float:left;
+}
+
+#logo_pie {
+	width:295px;
+	height:137px;
+	background: url(../imagenes/logo_pie.png) no-repeat;
+}
+
+#resumen_sitio li {
+	float:left;
+	width:50%;
+	line-height:20px;
+}
+
+#resumen_sitio a {
+	text-decoration:none;
+	color:#000;
+	text-align:center;
+	font-family: "georgia", "times new roman", serif;
+	font-size: 0.7em;
+}
+
+#lugar {
+	line-height:28px;
+	color:#000;
+	padding-left:25px;
+	background: url(../imagenes/icono_ubicacion.png) no-repeat left;
+}
+
+#quienes {
+	line-height:28px;
+	color:#000;
+	padding-left:25px;
+	background: url(../imagenes/icono_quienes.png) no-repeat left;
+}
+
+#tel_pie {
+	line-height:28px;
+	color:#000;
+	padding-left:25px;
+	background: url(../imagenes/icono_telefono.png) no-repeat left;
+}
+
+#email_pie {
+	line-height:28px;
+	color:#000;
+	padding-left:27px;
+	background: url(../imagenes/icono_mail.png) no-repeat left;
+}
+
+#innova {
+	width:100%;
+	line-height:30px;
+	background-color:#fff;
+}
+
+#innova a {
+	width:65px;
+	margin-left:10px;
+	display:block;
+	padding-right:60px;
+	background: url(../imagenes/logo_innova.gif) no-repeat right;
+	text-decoration:none;
+	font-family: "calibri", "arial", sans-serif;
+	font-size:0.7em;
+	color: #669933; 
+}
+
+#contacto #columna_uno {
+	float:left;
+	width:600px;
+	margin-bottom: 30px;
+}
+
+#contacto #columna_dos {
+	margin-top:40px;
+	width:200px;
+	margin-left: 18px;
+	float:left;
+	border: 1px dotted #555;
+	padding:20px;
+}
+
+#ubicacion {
+	border-top: 1px dotted #666;
+	padding-top:10px;
+}
+
+
+form {
+	width:600px;
+    font-family: "calibri", "arial", sans-serif;
+}
+
+input, textarea {
+	width:580px;
+	line-height:20px;
+	border: 1px solid #ccc;
+	margin: 5px 0;
+	padding:10px;
+    font-family: "calibri", "arial", sans-serif;
+}
+
+textarea {
+	font-size:0.8em;
+}
+
+.boton {
+	width:100px;
+	background-color: #663366;
+	padding:5px;
+	cursor: hand;
+	color:#fff;
+}
+
+.boton:hover {
+	background-color:#000;
+	color:#fff;
+}
+
+strong {
+	font-family: "georgia", "times new roman", serif;
+	font-style: italic;
+	font-size: 1em;
+	color:#666;
+	padding: 10px 0;
+	font-weight:bolder;
+}	
+
+}
