@@ -46,6 +46,8 @@ function comprobarCoincidencia() {
 function deshabilitarCartas() {
     primeraCarta.removeEventListener("click", girar);
     segundaCarta.removeEventListener("click", girar);
+    ganar();
+    console.log("acerte")
     resetearBareavle();
 }
 
@@ -84,8 +86,12 @@ function mezclarCartas() {
 const botonreset = document.getElementById("reset");
 botonreset.addEventListener("click", restart);
 const visorMovimientos = document.getElementById("visorMovimientos");
+const visorAciertos = document.getElementById("visorAciertos");
 let limite = 12;
+let aciertos = Number(0);
 visorMovimientos.textContent = limite;
+visorAciertos.textContent = aciertos;
+
 
 function restart() {
     visorMovimientos.textContent = limite;
@@ -96,8 +102,19 @@ function restart() {
 function restarMovimientos() {
     visorMovimientos.textContent = visorMovimientos.textContent - 1;
     if (visorMovimientos.textContent == 0) {
+        alert("Perdiste Rey")
         restart();
         visorMovimientos.textContent = limite;
+    }
+}
+
+function ganar() {
+    visorAciertos.textContent = Number(visorAciertos.textContent) + 1;
+    console.log(visorAciertos.textContent)
+    if (Number(visorAciertos.textContent) == Number(6)) {
+        alert("Ganaste Corazon!")
+        restart();
+        visorAciertos.textContent = aciertos;
     }
 }
 
