@@ -95,6 +95,8 @@ visorAciertos.textContent = aciertos;
 
 function restart() {
     visorMovimientos.textContent = limite;
+    visorAciertos.textContent = aciertos;
+
     cartas.forEach((carta) => carta.classList.remove("girar"));
     cartasClickeables();
 }
